@@ -1,0 +1,4 @@
+Artificial intelligence (AI) is technology that enables computers and machines 
+to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy .
+ any other form of AI is theoretical. it can be trained to perform a single or narrow task, 
+ often far faster and better than a human mind can .

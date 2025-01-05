@@ -1,0 +1,219 @@
+Artificial intelligence (AI) is technology that enables computers and 
+machines to simulate human learning, comprehension, problem solving, 
+decision making, creativity and autonomy.
+Artificial intelligence is the 
+simulation of human intelligence 
+processes by machines, especially 
+computer systems.
+AI (Artificial Intelligence)
+
+
+
+
+
+
+
+1. Artificial Narrow AI
+Artificial Narrow Intelligence, also known as Weak AI (what we refer to as Narrow 
+AI), is the only type of AI that exists today. Any other form of AI is theoretical. It 
+can be trained to perform a single or narrow task, often far faster and better than 
+a human mind can.
+2. General AI
+Artificial General Intelligence (AGI), also known as Strong AI, is today nothing 
+more than a theoretical concept. AGI can use previous learnings and skills to 
+accomplish new tasks in a different context without the need for human beings to 
+train the underlying models. This ability allows AGI to learn and perform any 
+intellectual task that a human being can.
+3. Super AI
+Super AI is commonly referred to as artificial superintelligence and, like AGI, is 
+strictly theoretical. If ever realized, Super AI would think, reason, learn, make 
+judgements and possess cognitive abilities that surpass those of human beings.
+
+
+Artificial Intelligence type-2: Based on functionality
+
+1. Reactive Machines
+
+Purely reactive machines are the most basic types of Artificial Intelligence.
+
+Such AI systems do not store memories or past experiences for future actions.
+
+These machines only focus on current scenarios and react on it as per possible best action.
+
+IBM's Deep Blue system is an example of reactive machines.
+2. Limited Memory
+
+Limited memory machines can store past experiences or some data for a short period of time.
+
+These machines can use stored data for a limited time period only.
+
+Self-driving cars are one of the best examples of Limited Memory systems. These cars can store recent speed of 
+nearby cars, the distance of other cars, speed limit, and other information to navigate the road.
+3. Theory of Mind
+
+Theory of Mind AI should understand the human emotions, people, beliefs, and be able to interact socially like 
+humans.
+
+This type of AI machines are still not developed, but researchers are making lots of efforts and improvement for 
+developing such AI machines.
+4. Self-Awareness
+
+Self-awareness AI is the future of Artificial Intelligence. These machines will be super intelligent, and will have 
+their own consciousness, sentiments, and self-awareness.
+
+These machines will be smarter than human mind.
+
+Self-Awareness AI does not exist in reality still and it is a hypothetical concept
+
+
+
+
+
+iC
+
+Ww
+
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Source : statista via @mikequindazzi
+
+APPLICATIONS OF Al
+
+Possible Applications for Artificial Intelligence
+
+D, -
+
+ef
+
+Internet of Things | 2 09 Deep Learning
+
+©)
+
+Social Network
+Analysis
+
+Audio
+Analytics 95
+Machine
+Learning
+
+13
+
+Visualization
+
+NT 1400 Sample Text
+
+
+
+
+
+iC
+
+Ww
+
+
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Applications/of/Al
+
+<4 E-commerce
+
+
+
+
+iC
+
+Ww
+
+
+
+TYPES OF Al ) '
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Types of Artificial intelligence
+
+Based on
+
+Based on Ability Reto S
+
+1. Narrow Al 1. Reactive Machines
+
+2. General Al 2. Limited Memory
+
+3. Super Al 3. Theory of Mind
+
+4. Self-Awareness
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Narrow General Strong Reactive’
+Al Al Machines
+
+Limited Théory
+Memory of mind
+
+Self.
+Awareness
+
+
+
+
+iC
+
+Ww
+
+
+
+
+
+
+iC
+
+Ww
+
+
+
+
+
+
+
+iC
+
+Ww
+
+
