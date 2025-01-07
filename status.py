@@ -1,16 +1,21 @@
 import requests
 import json
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Groq API key from environment variable
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # API endpoint
 url = "https://api.groq.com/openai/v1/chat/completions"
 
-# Your Groq API key
-api_key = "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"
-
 # Headers for the request
 headers = {
     "Content-Type": "application/json",
-    "Authorization": f"Bearer {api_key}",
+    "Authorization": f"Bearer {GROQ_API_KEY}",
 }
 
 # Payload for the request

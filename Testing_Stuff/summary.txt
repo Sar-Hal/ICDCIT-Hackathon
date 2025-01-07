@@ -1,0 +1,838 @@
+
+
+
+
+
+
+
+
+What is the difference between decentralized and centralized 
+security?
+Centralized networks are more vulnerable to cyber-attacks and 
+data breaches because all the data is stored in one central 
+location. This makes it easier for hackers to target and steal 
+sensitive information. 
+On the other hand, decentralized networks use multiple nodes to 
+store data.
+Decentralized security moves responsibilities and controls away 
+from the center, to the individual areas most vulnerable to 
+attack today. Decentralized security enables risk management 
+and security enforcement right across the business. It 
+empowers every team, and makes security everyone's 
+responsibility.
+
+
+
+
+Benefits of decentralization
+Provides a trustless environment
+In a decentralized blockchain network, no one has to know or trust anyone else. Each
+member in the network has a copy of the exact same data in the form of a distributed
+ledger. If a member’s ledger is altered or corrupted in any way, it will be rejected by the
+majority of the members in the network.
+Improves data reconciliation
+Companies often exchange data with their partners. This data, in turn, is typically
+transformed and stored in each party’s data silos, only to resurface when it needs to be
+passed downstream. Each time the data is transformed, it opens up opportunities for data
+loss or incorrect data to enter the workstream. By having a decentralized data store,
+every entity has access to a real-time, shared view of the data.
+Reduces points of weakness
+Decentralization can reduce points of weakness in systems where there may be too much
+reliance on specific actors. These weak points could lead to systemic failures, including
+failure to provide promised services or inefficient service due to the exhaustion of
+resources, periodic outages, bottlenecks, lack of sufficient incentives for good service, or
+corruption.
+Optimizes resource distribution
+Decentralization can also help optimize the distribution of resources so that promised
+services are provided with better performance and consistency, as well as a reduced
+likelihood of catastrophic failure.
+
+
+
+
+
+
+
+Cyber security is the practice of defending computers, 
+servers, mobile devices, electronic systems, networks, and 
+data from malicious attacks. It's also known as information 
+technology security or electronic information security.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iC
+
+Ww
+
+
+
+co
+
+sal KLIZO
+
+solutions pvt. ltd.
+
+et
+
+The Choice You Should Make Today
+
+Best Use Cases of Blockchain Applications
+in Cybersecurity
+
+BLOCKCHAIN
+TECHNOLOGY
+
+
+
+
+iC
+
+Ww
+
+
+
+~~
+
+CONTENTS:
+
+° Introduction “a ee
+
+=O Ae ae In @yber Security= >
+
+so Dy pes ia Cyber Sécurity fe ip * Cr KY
+
+fo) Major Cyber Attacks ~ \f ‘y —C a Al N
+
+o How Bléekchain Will Tranciee Eyber Secu ill
+
+_
+
+o- Application Of, Bi gpchyin In Crier. Seti a
+
+o Advantages of bl dghain | in-€
+
+o Future of p logechat based Cyber
+
+o Conclusion
+
+
+
+
+iC
+
+Ww
+
+
+
+INTRODUCTION
+
+¢ As the world goes online and people relays on the
+Internet for their routine processes and habits, it is
+essential to maintain the security of online data.
+Blockchain, a notable buzzword of recent days has
+taken charges to secure online data.
+
+Once blockchain technology has been introduced,
+the focus is on the fulfilment of the information
+security properties it provides. Focusing on data
+integrity, blockchain ledger is immutable.
+
+
+
+
+
+iC
+
+Ww
+
+
+
+BLOCKCHAIN IN CYBER SECURITY
+
+¢ Blockchain is a booming technology that
+boosts every business and industry verticals.
+As the count of cybercriminals increases
+complex and are endlessly trying to steal
+valuable data like financial data, health
+records, intellectual property, and personal
+identifiable information.
+
+
+
+
+
+iC
+
+Ww
+
+
+
+TYPES OF CYBER SECURITY
+
+a i
+
+¢ Basically the major types of cyber security ifyolge the
+
+1. Cloud security f
+
+2. Application security | |
+3. Critical infrastructure sedhinity u
+
+4, Internet of things (IoT) security Y
+
+5. Network security .
+
+
+
+
+iC
+
+Ww
+
+
+
+
+
+
+
+iC
+
+Ww
+
+
+
+HOW BLOCKCHAIN WILL TRANSFORM CYBER
+SECURITY?
+
+These are the following application by which block chain transfer Cyber Security.
+They are as Follows:
+
+Verifying Software Mitigating DDoS Biometric Preventing Hacks on MoreSecureDNS —Decentralizing
+Downloads / Updates Attacks Private Keys Automated Systems Data Storage
+
+Re
+s-®s
+
+@-
+
+SecuringEdge Public Key infrastructure Computer Hardware Data Veracity
+Devices & Multi-Signature Logins Provenance
+
+
+
+
+
+iC
+
+Ww
+
+
+
+APPLICATION OF BLOCKCHAIN IN CYBER
+SECURITY
+
+1. A Decentralized Storage Medium :
+
+As we people move faster with online, it is very necessary to make a safer
+
+environment for all the personal information that we share on a medium
+
+(computer or internet ). Most of the business still use a centralized medium
+for its data storage, which makes it easier for hackers to reach data for stealing.
+
+Since Blockchain-based decentralized storage medium can prevent business
+data theft and hacks.
+
+
+
+
+iC
+
+Ww
+
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Centralization
+
+Centralization refers to a central location or group of managerial personnel
+responsible for planning, decision-making, and action-taking activities.
+
+~ = | Disadvantages _
+
+@ Anefficient communication ff  Bureswrensitis oonamagiadl
+OQ chain Gy
+Fil Clear vision a3 Remote control
+i Economic fe Workplace delays
+7 Decision-making is simple “es Employee dissatisfaction
+ee Increase in productivity
+
+
+
+
+iC
+
+Ww
+
+
+
+if] MG es
+
+1D)
+
+go
+
+Decentralization
+
+Decentralization is a firm structure in which multiple levels of the
+organization make choices. It ensures better functioning
+and easier judgment for the company’s success.
+
+Advantages °
+
+Quick decision and
+response times
+
+Better ability to expand the
+company
+
+On-demand training
+
+Appraisals
+
+Better utilization of
+management
+
+€ Disadvantages 4
+
+Problem coordinating
+
+Increased expenditure
+
+Incongruity in operations
+
+Self-centeredness
+
+Reliance on hierarchy
+
+
+
+
+iC
+
+Ww
+
+
+
+Centralized Framework Decentralized Framework
+FIGURE 2. Centralized systems with intermediaries
+versus decentralized blockchain systems.
+
+
+
+
+iC
+
+Ww
+
+
+
+
+
+
+
+iC
+
+Ww
+
+
+
+CONTINUE....
+
+2. Security in DNS:
+
+Most of the DNS is centralized and hackers can break the connections between
+a domain name and IP address and can also make the website unavailable.
+Hackers in recent days try to pair DNS attacks with DDoS attacks to render
+websites unusable for a certain period of time.
+
+Using blockchain technology can make it difficult for hackers as your data or
+information are stored immutable on a decentralized, distributed ledger and
+immutable smart contracts are present to power connections.
+
+
+
+
+iC
+
+Ww
+
+
+
+CONTINUE....
+
+3. Securing Edge Devices via Identity Authentication:
+
+obvious
+
+Edge devices present especially vulnerable access points into core networks.
+One example is an employee who logs into their company’s servers via their
+own unsecured phone. For a hacker, penetrating an entire network through a
+blatant vulnerability via an edge device is like taking candy from a baby.
+Ensuring that these devices, as well as the core network itself, are insulated
+with multi-step authentication processes and blockchain-level, decentralized
+threat mitigation protocols is the first step in patching some of the most
+network entry points that hackers could exploit.
+
+
+
+
+iC
+
+Ww
+
+
+
+ADVANTAGES OF BLOCKCHAIN IN CYBER
+
+SECURITY
+
+¢ Let me list a lot more benefits of using blockchain technology to prevent cyber
+
+attacks/crime.
+
+if
+
+Distribution of Public Key and Multi-Signature Logins.
+
+2. Provides Decentralizing Data Storage that Removes Honey Pot.
+3. Mitigating Denial-of-Service (DDoS) Attacks.
+
+4.
+5
+
+Easy Verification of the Validity of Software Downloads / Updates.
+
+. Provenance for Computer Hardware for Prevention of Foreign Intrusion.
+
+
+
+
+iC
+
+Ww
+
+
+
+FUTURE OF BLOCKCHAIN-BASED CYBER
+SECURITY
+
+¢ Blockchain technology can be utilized to prevent any type of data breaches, identity
+thefts, cyber-attacks or false transactions ensuring data privacy and security.
+
+« As days pass, the rate of Cybercriminals is raising which In turns create jobs for
+security professionals over the next few years. It is the blockchain technology that
+tends to be the saviour of data security.
+
+¢ Cyber Security will be boosted double the amount of cybercriminals rate, only when
+blockchain technology has been used as a medium of data storage.
+
+
+
+
+iC
+
+Ww
+
+
+
+CONCLUSION
+
+¢ Blockchain technology is a
+breakthrough in cyber _ security,
+as it can ensure the highest level of
+data confidentiality, availability,
+and security. However, the
+complexity of the technology may
+cause difficulties with development
+
+and real-world use.
+
+
+
+
+iC
+
+Ww
+
+
+
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Need of cyber security
+
+Cyber security is necessary since it helps in
+securing data from threats such as data theft or
+misuse, also safeguards your system from viruses.
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Major security problems
+
+_ Virus
+_ Hacker
+_ Malware
+
+_ Trojan horses
+
+_ Password cracking
+
+
+
+
+iC
+
+Ww
+
+
+
+ae 7 ee ———> ——
+
+Viruses and Worms
+
+A Virus is a “program that is loaded onto your
+computer without your knowledge and runs
+against your wishes
+
+es 3335
+
+- = Se oer ore aes O71 O1OABABArArCaAn AAS
+IMPS FP SEPEPaDED EE SPE BED RED PED 4 CHEDED 4ESAT ATS RS
+[PFI F FS PIOOQOFAAFOABOAVW1O2AVBWIGAGAGVABGA AG
+
+JIFTAFAFIFOEPTFOTFOAABO1I10 1401 OA OBA VWVoVBrAARANA
+
+FFQOKOCOTFTFIFIOATACO1AO7AOA7AVVGOADBABONADMO
+
+FOOQDOOTIIAFOTAAIODWDO 1 OAVVOOABOAWAN
+FIFOTOTOTTOTO (WDA GOAVDAVDDOA
+
+FPOOTIAAFOB1AO1OCAVAVVOAWAYV
+
+4/4 ¥ Fy wl ih BLBLEA ™
+
+
+
+
+iC
+
+Ww
+
+
+
+Solution
+
+— Install a security suite that protects the computer
+against threats such as viruses and worms.
+
+
+
+
+
+iC
+
+Ww
+
+
+
+VIF im Ri Ee
+
+KA\PER\KY'2 om est
+
+Norton ach Security
+
+avast! 9 from symante Pets
+
+@webroot DING BREE bitdefender
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Hackers
+
+—In common a hac is a person who breaks
+into computers, usually by gaining access to
+administrative controls.
+JIOHIONOVVIVCIOIOV
+HOlOO} lOlOIOO
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Types of Hackers
+
+White Hat Hacker
+Grey Hat Hacker
+
+Black Hat Hacker
+
+10
+nnid 010stt ‘
+yi0io0e""
+
+g1110101''
+
+‘& 14010
+
+‘01010
+110
+
+
+
+
+
+iC
+
+Ww
+
+
+
+How To prevent hacking
+
+a =i
+
+It may be impossible to prevent computer hacking,
+however effective security controls including strong
+passwords, and the use of firewalls can helps.
+
+
+
+
+
+iC
+
+Ww
+
+
+
+_-ii
+
+alware
+
+_ The word "malware" comes from the term
+"VMALicious softWARE."
+
+_ Malware is any software that infects and damages a
+computer system without the owner's knowledge or
+
+permission.
+
+=— &>
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Trojan Horses
+
+_ Trojan horses are
+email viruses that can
+duplicate themselves,
+steal information, or
+harm the computer
+system.
+
+_ These viruses are the
+most serious threats to
+computers
+
+—o
+[ Destroy?
+
+——_—
+Change? — :
+
+Transmit? le
+Pi Ul
+H
+
+
+
+
+
+iC
+
+Ww
+
+
+
+How to Avoid Trojans
+
+_ Security suites,
+such as Avast
+Internet Security,
+will prevent you
+from downloading
+Trojan Horses.
+
+A Trojan Horse Was Found!
+
+There is no reason to worry, though. avast! has stopped the
+Malware before it could enter pour computer. When you click on the
+“Abort connection” button, the download of the dangerous file wall
+be canceled.
+
+File name: http: 4/1 3. plala. or. jp/settsb/download/beta/setfsbU15a3_P5w"
+Malware name: Wind2:Kuillwin-F [Tr]
+
+Malware type: Trojan Horse
+
+VPS version: 0634-0, 21/08/2006
+
+Processing
+
+[ Abort connection
+
+http://www.avast.com Fill in our virus report to help us
+
+ee ea |
+
+
+
+
+iC
+
+Ww
+
+
+
+| Password Cracking
+
+Password attacks are attacks by hackers that are able
+to determine passwords or find passwords to different
+protected electronic areas and social network sites.
+
+
+
+
+
+iC
+
+Ww
+
+
+
+Securing Password on
+
+Use always Strong password.
+Never use same password for two different sites.
+
+shdofusw/S4cnguiknocoh43e france Jeb lkfdmgoifdanm
+wsdiygugfuy brhunhodrtuSvh lfac 2 vanhugosho
+Perey So iumygoisfimcohsudohnu il a .
+igefbuus test ru }
+icgixrhciacshrivder
+‘ hyde i ZEslcuhs Tf zs74e
+gx Vaan a ikchokseru?7 ab ‘ =
+q ih DSU Ze Bees 1 Soe x +
+svahbZocu inxnuam
+Pete Luo se S2aherds ik t: ho he kd = u ih \
+sk bab ike umuh iu — isk JBouad\
+
+geh) 7riv a be Jf 7 ic jgbcf
+
+ysduud2luaaye 2rs37. (Ga
+hf csoBwbrec lk jmts i rf passwordxs);
+
+Shsocua? Jughy ri si be Wie Cr la Lic
+joc /MwV4GO5F ¢ isuy fac 1at\e=s ws c a pe /
+kshosyu 4S Lasse: Jt 20a >< iis
+imbcoacst roonhe LUtur oy ue ta?
+
+nVOhvmbao {tur Lye Sut oN
+HAS AL peek Wes JEU D pe we“) hve rt
+ae.
+
+cysauigfe4acny iog2apo
+
+Pavbwown tty cline i rusd i AO Viren =—
+-VIRESyuoVeugre? imsgahyeuw iene Wweplicwe iD
+
+BIO Sy i igfde Lgur incuyerl temiocg louug
+
+asoStehs igf 46£f tno taugonchfunaag 3
+
+
+
+
+
+iC
+
+Ww
+
+
+
+_ Cyber Security Is Everyone’s Responsibility
+
+,
+
