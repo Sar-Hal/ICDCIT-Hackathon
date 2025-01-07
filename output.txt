@@ -1,0 +1,7 @@
+The text discusses the differences between centralized and decentralized security, and how blockchain technology can improve cybersecurity. Here are the key points:
+
+**Centralized vs Decentralized Security**
+
+* Centralized networks are more vulnerable to cyber-attacks and data breaches because all data is stored in one location.
+* Decentralized networks use multiple nodes to store data, making it harder for hackers to target and steal sensitive information.
+* Decentralized security enables risk management and security enforcement across the business, empowering every team to
