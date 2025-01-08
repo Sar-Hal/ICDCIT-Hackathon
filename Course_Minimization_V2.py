@@ -1,11 +1,11 @@
-import fitz
-import requests
+import fitz # type: ignore
+import requests # type: ignore
 import json
 import os
 import time
 from collections import deque
 from datetime import datetime
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 from typing import List, Optional
 
 # Load environment variables
