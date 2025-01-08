@@ -3,50 +3,47 @@ MONDAY
 10:30 AM - 12:00 PM: Patient Consultations
 12:00 PM - 1:00 PM: Medical Examinations
 1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 4:30 PM: Medical Examinations
-4:30 PM - 5:00 PM: Prescription Reviews
-
+3:00 PM - 4:00 PM: Medical Examinations
+4:00 PM - 5:00 PM: Surgeries
 
 TUESDAY
 9:00 AM - 12:00 PM: Surgeries
-12:00 PM - 1:00 PM: Follow-up Calls
-1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 5:00 PM: Surgeries
-
-
-WEDNESDAY
-9:00 AM - 12:00 PM: Health Screenings
-12:00 PM - 1:00 PM: Patient Admissions
+12:00 PM - 1:00 PM: Health Screenings
 1:00 PM - 3:00 PM: Lunch Break
 3:00 PM - 5:00 PM: Emergency Care
 
-
-THURSDAY
-9:00 AM - 12:00 PM: Emergency Care
+WEDNESDAY
+9:00 AM - 10:30 AM: Emergency Care
+10:30 AM - 12:00 PM: Patient Admissions
 12:00 PM - 1:00 PM: Discharge Planning
 1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 5:00 PM: Medical Research
+3:00 PM - 4:00 PM: Discharge Planning
+4:00 PM - 5:00 PM: Medical Research
 
+THURSDAY
+9:00 AM - 11:00 AM: Medical Research
+11:00 AM - 12:00 PM: Follow-up Calls
+12:00 PM - 1:00 PM: Prescription Reviews
+1:00 PM - 3:00 PM: Lunch Break
+3:00 PM - 5:00 PM: Staff Meetings
 
 FRIDAY
-9:00 AM - 12:00 PM: Medical Research
-12:00 PM - 1:00 PM: Staff Meetings
+9:00 AM - 10:30 AM: Staff Meetings
+10:30 AM - 12:00 PM: Training Sessions
+12:00 PM - 1:00 PM: Administrative Duties
 1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 5:00 PM: Training Sessions
-
+3:00 PM - 4:00 PM: Administrative Duties
+4:00 PM - 5:00 PM: Telemedicine Appointments
 
 SATURDAY
-9:00 AM - 12:00 PM: Administrative Duties
-12:00 PM - 1:00 PM: Telemedicine Appointments
+9:00 AM - 10:30 AM: Telemedicine Appointments
+10:30 AM - 12:00 PM: Patient Education
+12:00 PM - 1:00 PM: Patient Education
 1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 5:00 PM: Telemedicine Appointments
-
+3:00 PM - 5:00 PM: Patient Consultations
 
 SUNDAY
-9:00 AM - 11:00 AM: Patient Education
-11:00 AM - 12:00 PM: Patient Consultations
-12:00 PM - 1:00 PM: Patient Consultations
+9:00 AM - 12:00 PM: Surgeries
+12:00 PM - 1:00 PM: Health Screenings
 1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 5:00 PM: Patient Consultations 
-
-The above schedule meets the given requirements, distributing the tasks across the 7 working days with 8-9 working hours per day, including a 2-hour lunch break, and starting at 9:00 AM each day.
+3:00 PM - 5:00 PM: Emergency Care

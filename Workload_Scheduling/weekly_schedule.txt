@@ -4,46 +4,60 @@ MONDAY
 12:00 PM - 1:00 PM: Medical Examinations
 1:00 PM - 3:00 PM: Lunch Break
 3:00 PM - 4:00 PM: Medical Examinations
-4:00 PM - 5:00 PM: Surgeries
+4:00 PM - 5:00 PM: Follow-up Calls
+5:00 PM - 6:00 PM: Prescription Reviews
+6:00 PM - 7:00 PM: Administrative Duties
+
 
 TUESDAY
 9:00 AM - 12:00 PM: Surgeries
 12:00 PM - 1:00 PM: Health Screenings
 1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 5:00 PM: Emergency Care
+3:00 PM - 5:00 PM: Surgeries
+5:00 PM - 6:00 PM: Patient Admissions
+6:00 PM - 7:00 PM: Discharge Planning
+
 
 WEDNESDAY
-9:00 AM - 10:30 AM: Emergency Care
-10:30 AM - 12:00 PM: Patient Admissions
-12:00 PM - 1:00 PM: Discharge Planning
+9:00 AM - 12:00 PM: Emergency Care
+12:00 PM - 1:00 PM: Medical Research
 1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 4:00 PM: Discharge Planning
-4:00 PM - 5:00 PM: Medical Research
+3:00 PM - 5:00 PM: Emergency Care
+5:00 PM - 6:00 PM: Medical Research
+6:00 PM - 7:00 PM: Staff Meetings
+
 
 THURSDAY
-9:00 AM - 11:00 AM: Medical Research
-11:00 AM - 12:00 PM: Follow-up Calls
-12:00 PM - 1:00 PM: Prescription Reviews
-1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 5:00 PM: Staff Meetings
-
-FRIDAY
-9:00 AM - 10:30 AM: Staff Meetings
-10:30 AM - 12:00 PM: Training Sessions
-12:00 PM - 1:00 PM: Administrative Duties
-1:00 PM - 3:00 PM: Lunch Break
-3:00 PM - 4:00 PM: Administrative Duties
-4:00 PM - 5:00 PM: Telemedicine Appointments
-
-SATURDAY
-9:00 AM - 10:30 AM: Telemedicine Appointments
-10:30 AM - 12:00 PM: Patient Education
-12:00 PM - 1:00 PM: Patient Education
+9:00 AM - 12:00 PM: Patient Consultations
+12:00 PM - 1:00 PM: Training Sessions
 1:00 PM - 3:00 PM: Lunch Break
 3:00 PM - 5:00 PM: Patient Consultations
+5:00 PM - 6:00 PM: Telemedicine Appointments
+6:00 PM - 7:00 PM: Patient Education
 
-SUNDAY
+
+FRIDAY
 9:00 AM - 12:00 PM: Surgeries
 12:00 PM - 1:00 PM: Health Screenings
 1:00 PM - 3:00 PM: Lunch Break
+3:00 PM - 5:00 PM: Surgeries
+5:00 PM - 6:00 PM: Follow-up Calls
+6:00 PM - 7:00 PM: Prescription Reviews
+
+
+SATURDAY
+9:00 AM - 12:00 PM: Emergency Care
+12:00 PM - 1:00 PM: Medical Research
+1:00 PM - 3:00 PM: Lunch Break
 3:00 PM - 5:00 PM: Emergency Care
+5:00 PM - 6:00 PM: Medical Research
+6:00 PM - 7:00 PM: Administrative Duties
+
+
+SUNDAY
+9:00 AM - 12:00 PM: Patient Admissions
+12:00 PM - 1:00 PM: Discharge Planning
+1:00 PM - 3:00 PM: Lunch Break
+3:00 PM - 5:00 PM: Patient Admissions
+5:00 PM - 6:00 PM: Staff Meetings
+6:00 PM - 7:00 PM: Training Sessions
