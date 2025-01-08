@@ -1,0 +1,5810 @@
+INDUSTRY 4.0 TECHNOLOGIESSCHOOL OF MECHANICAL ENGINEERING
+SCHOOL OF MECHANICAL ENGINEERINGKALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY(KIIT)
+KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY(KIIT)DEEMED TO BE UNIVERSITY, BHUBANESHWAR
+DEEMED TO BE UNIVERSITY, BHUBANESHWAR
+1
+
+The Industrial Revolution was a 
+period of profound economic, 
+technological, and social change 
+that began in the late 18th century 
+and continued into the 19th 
+century. 
+INDUSTRIAL REVOLUTION
+Despite the challenges, the Industrial 
+Revolution ushered in an era of 
+unprecedented prosperity by driving 
+down the cost of goods and 
+improving living standards. 
+It marked a shift from agrarian and 
+handcraft-based economies to 
+industrial and machine-driven ones 
+leading to development of the 
+steam engine and the spinning 
+jenny, which revolutionized 
+manufacturing. 
+The Industrial Revolution's legacy extends 
+beyond economic and technological 
+advancements, shaping the modern world 
+in areas such as urban planning, 
+environmental concerns, social 
+movements, and labor rights.
+2
+
+STAGES OF INDUSTRIAL REVOLUTION
+First Industrial 
+Revolution (1760-
+1840):
+Key Developments: 
+Introduction of 
+mechanized textile 
+production, steam 
+power, and the use 
+of iron in 
+manufacturing.
+Impact: Shift from 
+agrarian economies 
+to factory-based 
+industrialization, 
+transforming 
+production methods 
+and leading to 
+urbanization.
+Second Industrial 
+Revolution (1840-
+1900):
+Key Developments: 
+Expansion of railways, 
+increased use of steel 
+and electricity, and 
+the development of 
+the telegraph.
+Impact: Further 
+industrialization, the 
+rise of heavy industry, 
+mass production, and 
+the emergence of 
+large corporations. This 
+period saw the spread 
+of industrialization 
+globally.
+Third Industrial 
+Revolution (late 19th 
+century - mid-20th 
+century):
+Key Developments: 
+Advancements in 
+electronics, 
+telecommunications, 
+and the rise of digital 
+technology.
+Impact: Automation, 
+the advent of 
+computers, and the 
+development of 
+information technology. 
+This phase witnessed the 
+transition from analog 
+to digital systems.
+Fourth Industrial Revolution 
+(Industry 4.0 - ongoing):
+Key Developments: 
+Integration of digital 
+technologies, the Internet of 
+Things (IoT), artificial 
+intelligence (AI), big data, 
+and automation.
+Impact: Smart manufacturing, 
+interconnected systems, real-
+time data analysis, and the 
+fusion of physical and digital 
+technologies. Industry 4.0 
+emphasizes the use of cyber-
+physical systems to enhance 
+efficiency, productivity, and 
+customization in 
+manufacturing processes.
+3
+
+FIRST INDUSTRIAL REVOLUTION: A CRUCIBLE OF INNOVATION AND TRANSFORMATION
+The First Industrial Revolution, a period of profound economic, technological, and 
+social change, unfolded between 1760 and 1840. Its epicenter lay in Great Britain, with  
+a burgeoning population, advancements in agriculture, and innovation.
+Key Developments: Revolutionizing Production and Society
+• Mechanized Textile Production: The spinning jenny in 1764 and the power loom in 
+1785 dramatically increased the efficiency of textile production, enabling mass 
+production of cotton.
+• Steam Power: The harnessing of steam power, provided a versatile and powerful 
+energy source that propelled industrial machinery and transportation.
+• Use of Iron in Manufacturing: Iron, replaced wood in various industrial applications, 
+leading to the construction of sturdier machines and structures.
+Impact: A Paradigm Shift from Agrarian to Industrial Societies
+• Shift from Agrarian Economies to Factory-Based Industrialization: The Industrial 
+Revolution marked a transition from economies dominated by agriculture and 
+handcrafts to those driven by factories and machine-based production.
+• Transforming Production Methods: Mechanization and the adoption of new 
+technologies revolutionized manufacturing processes, enabling mass production at 
+unprecedented scales and efficiencies.
+• Urbanization and Social Change: The rise of factories drew workers from rural 
+areas to cities, leading to rapid urbanization and a shift in social structures.
+4
+
+SECOND INDUSTRIAL REVOLUTION: A SURGE OF INNOVATION AND GLOBAL TRANSFORMATION
+The Second Industrial Revolution, unfolding from 1840 to 1900, witnessed a convergence of groundbreaking 
+innovations, including the expansion of railways, the widespread adoption of steel and electricity, and the 
+revolutionary invention of the telegraph, fundamentally altering the course of human history.
+Key Developments: Fueling the Industrial Transformation
+•
+The Iron Horse: The expansion of railways revolutionized transportation, connecting cities 
+and nations, facilitating efficient movement of goods and people.
+•
+Steel: The development of the Bessemer process in 1856 made mass steel production 
+more affordable and accessible. 
+•
+Electricity: Electric lighting revolutionized factories, homes, and cities, powering new 
+inventions like electric motors and trams, further propelling industrialization.
+•
+The Telegraph: The invention of the telegraph in the 1830s revolutionized 
+communication, enabling the instantaneous transmission of messages over long 
+distances.
+The Impact: A World Transformed
+•
+The Rise of Heavy Industry: Emergence of heavy industries, such as steel production, 
+shipbuilding, and machinery manufacturing. 
+•
+Mass Production: Mass production techniques, enabled by assembly lines and 
+standardized components, revolutionized manufacturing. 
+•
+Emergence of Large Corporations: Fostered the growth of large corporations, which 
+leveraged economies of scale and technological advancements to dominate 
+industries. 
+•
+Global Spread of Industrialization: This global transformation interconnected economies 
+and altered global power dynamics of the telegraph in the 1830s.
+5
+
+Key Developments
+•
+Advancements in electronics: The invention of the vacuum tube in 
+1904 led to the development of new electronic devices, such as 
+radios, televisions, and telephones. 
+•
+Emergence of telecommunications: The development of the telegraph 
+and telephone in the 19th century enabled communication over long 
+distances. 
+•
+Rise of digital technology: The development of the computers enabled 
+the automation of tasks and the processing of large amounts of data.
+THIRD INDUSTRIAL REVOLUTION
+The Third Industrial Revolution was a period of profound technological advancement that began in the late 19th 
+century and continued into the mid-20th century. It was characterized by the development of new technologies 
+in electronics, telecommunications, and digital technology. 
+Impact
+•
+Automation: The development of new technologies led to the 
+automation of many tasks that were previously done by hand. 
+Thus increasing productivity and efficiency.
+•
+Advent of computers: The development of the computer was one 
+of the most significant events of the Third Industrial Revolution and 
+have revolutionized every aspect of society, from business to 
+communication to entertainment.
+•
+Development of information technology: Information technology 
+has enabled the creation, storage, and dissemination of 
+information on an unprecedented scale. 
+6
+
+FOURTH INDUSTRIAL REVOLUTION
+The Fourth Industrial Revolution, also known as Industry 4.0, is characterized by the convergence of a multitude of 
+digital technologies that are transforming manufacturing and other industries.
+Autonomous Robots
+Cloud Computing
+IOT
+AR/VR
+Additive Manufacturing
+AI/ML
+Smart Factories
+Cyber Physical Systems
+Big Data Analytics
+HealthCare 4.0
+Digital Workspace
+Digital Twin
+Agriculture in IND 4.0
+Environment & Design Principles
+IND 4.0 Framework Challenges 
+Sensing and Computing
+IoS
+IIoT
+7
+
+CLOUD COMPUTING
+Cloud computing (also referred to as Internet-based computing), is a technology where the data and 
+programs are stored as files, images, documents, or any other storable document and accessed on 
+remote servers that are hosted on the internet instead of the computer’s hard drive or local server. 
+Private Cloud
+Computing resources are 
+governed, owned and operated 
+by the same org. Orgs data server 
+hosts the cloud service.
+Public Cloud
+Operated by 3rd party companies 
+who handle and control all 
+hardware and software to provide 
+services through public accounts.
+Hybrid Cloud
+A combination of public and 
+private services, allowing more 
+flexibility and helps optimise user 
+infrastructure and security. Used for 
+both B2B and B2C services.
+Community Cloud
+Computing resources provided by 
+the community.
+Services
+Storage                      Computer 
+Database                    Network
+Servers
+Cloud Infrastructure
+Types of Cloud Services:
+•
+Email, Analysing data
+•
+Storage, Backup, Data Retrieval
+•
+Creating and testing apps
+•
+Developing new apps & services
+•
+Audio and Video Streaming
+•
+Delivering Software on demand
+•
+Hosting blogs and websites
+Benefits of Cloud Computing:
+Lower infrastructure costs for users, 
+improved performance, instant software 
+updates, backup and recovery, 
+performance and scalability, increased 
+storage.
+8
+
+Software as a Services(SAAS):
+A software distribution model in which apps are hosted by service 
+provider and made available to customers. SAAS follows 
+subscription model and accessed via online platforms. Eg: Zoom, 
+Dropbox
+Platform as a Services(PAAS):
+Provides a platform and environment for developers to build apps 
+and services which is hosted on cloud. PAAS is constantly 
+updated and includes software support, management services, 
+storage, networking, deploying, etc. Eg: Heroku, Google App 
+Engine
+Infrastructure as a Services(IAAS):
+Is a complete computing package which includes servers, 
+storage, networking, security and cloud service components. It’s 
+also a testing environment for app development. Eg: Dropbox, 
+Microsoft Azure
+Cloud Computing Services
+Fog Computing:
+•
+A type of decentralised cloud computing architecture where 
+computer resources are dispersed between data sources and 
+cloud.
+•
+Utilized only when a small amount of data has to be sent to 
+cloud for long term storage and less access by user.
+•
+An additional computer present at LAN level regulates which 
+information is to processed locally and which are to be sent to 
+cloud, acting like a mediator between local & remote services
+Cloud Computing Applications:
+•
+Healthcare
+•
+Education
+•
+Government Surveillance
+•
+Big Data Analytics
+•
+Communication
+•
+Facebook, Gmail
+•
+Citizen Service 
+9
+
+Augemented Reality(AR):
+Virtual Reality(VR):
+Augmented Reality 
+(AR) is a type of 
+technology that 
+overlays digital 
+information onto the 
+real world, creating 
+a hybrid 
+environment where 
+virtual and physical 
+elements coexist.
+Virtual reality is a 
+simulated 3D 
+environment that 
+enables users to 
+explore and interact 
+with a virtual 
+surrounding in a way 
+that approximates 
+reality.
+Industry 4.0 Applications of AR:
+• AR-guided Maintenance: Technicians can use AR glasses to 
+receive real-time, step-by-step instructions overlaid onto 
+physical machinery.
+• AR-based Training: New employees can be trained using AR 
+simulations that overlay digital information onto real-world 
+objects.
+• Digital Work Instructions: AR can provide workers with digital 
+instructions and information directly in their field of view, 
+improving accuracy.
+• Safety Training: AR can be used for safety training, simulating 
+hazardous scenarios without exposing workers to real danger.
+• AR for Design Visualization: Engineers and designers can use 
+AR to visualize and interact with 3D models during the design 
+phase.
+Industry 4.0 Applications of VR:
+• Equipment Operation: VR simulations enable operators to 
+practice using complex machinery and equipment in a safe 
+and controlled environment.
+• Prototyping: Virtual prototyping allows for the testing of 
+prototypes in a virtual space, saving time and resources 
+compared to physical prototyping.
+• Remote Assistance: VR can be used for remote assistance, 
+where experts can guide on-site technicians through 
+maintenance procedures using augmented reality (AR) 
+overlays.
+• Virtual Meetings and Conferences: VR facilitates virtual 
+meetings and collaboration among teams spread across 
+different locations. 
+10
+
+ADDITIVE MANUFACTURING(3D PRINTING)
+Additive Manufacturing or 3D 
+Printing is a computer controlled 
+process that creates 3D objects by 
+depositing materials, usually in 
+layers.
+It is the opposite of subtractive 
+manufacturing which was used 
+earlier involving gradual removal of 
+layers from a solid block of any 
+material to form a 3D object.
+Offers significant benefits to a wide 
+range of industries, whether it's for 
+agile product customization, or 
+rapid and cost-effective spare 
+parts procurement.
+Complex shapes and design 
+elements can be easily cured on 
+the materials using additive
+manufacturing techniques.
+ADDITIVE MANUFACTURING(AM) IN INDUSTRY 4.0
+•
+Industry 4.0 promotes the integration of smart technologies 
+and production systems through AM.
+•
+AM Technology like 3D printers can rapidly prototype and 
+produce high-performance, customized products thus 
+reducing build times and creating a more durable product.
+•
+AM allows developers to incorporate complex designs and 
+features without increasing cost.
+•
+High-performance, decentralized AM systems will reduce 
+transport distances and stock on hand.
+11
+
+PROCESS INVOLVES IN ADDITIVE MANUFACTURING(3D PRINTING):
+•
+Modeling: 3D printing begins with the process of designing the product in digital form using software like 
+AutoCAD, solid works, etc.
+•
+STL File Format (Standard Tessellation Language / Standard Triangle Language): STL file format is mostly 
+used in Stereo lithography, used for describing the surface geometry of an object to be printed by the 
+3D printer before the process starts.
+•
+3D Slicing: It is the process of breaking down a design into several layers. A slicer generates a G-code 
+which helps in providing instructions to the 3D printer that is how the print process should be carried out.
+12
+
+WORKING PRINCIPLE OF ADDITIVE MANUFACTURING(3D PRINTING):
+1.
+The first step is the generation of 3D geometric modeling of the components to be made in 
+AutoCAD, Pro/E, Catia, Solid work, or using any other CAD software.
+2.
+After the creation of the digital CAD model, the CAD file is converted to the additive 
+manufacturing file (AMF) format or a standard triangulation language (STL) file. These are 
+the standard input file formats accepted by any AM machine. The STL file format is the 
+representation of the CAD model by a series of triangles.
+3.
+The third step is the slicing process of the STL or AMF files. Before the slicing process is 
+commenced, the part orientation is optimized for the building process based on various 
+optimization parameters, which include the ease of building with no or minimal support 
+structure and minimum building time.
+4.
+The fourth step is the actual component building process.
+5.
+The fifth step is the removal of the component from the build platform when the building 
+process is completed.
+6.
+Lastly, the support structures are removed, the part is cleaned up.
+Advantages of Additive Manufacturing:
+•
+Design Freedom
+•
+Less Waste
+•
+Material Freedom
+•
+Cost Savings
+•
+On-Demand Production
+•
+Lightweighting
+Applications of Additive Manufacturing:
+•
+Medical Equipment
+•
+Toys and Games
+•
+Assembly Parts
+•
+Design and Art
+•
+Automotive Industry 
+•
+Architectural Designs
+13
+
+Big Data
+Big Data is nothing but lots of data consisting of varieties of data. It is the concept of
+gathering useful insights from such voluminous amounts of structured, semi-structured and
+unstructured data that can be used for effective decision making in the business
+environment. This data is collected from various sources over a course of time and is
+cumbersome (heavy and difficult to carry/use) to be managed by traditional database
+tools.
+14
+Big data is a voluminous set 
+of structured, unstructured, 
+and semi-structured 
+datasets, which is 
+challenging to manage using 
+traditional data processing 
+tools. It requires additional 
+infrastructure to govern, 
+analyze, and convert into 
+insights.
+
+15
+Big data?
+Big data is a combination 
+of unstructured, semi-structured or structured 
+data collected by organizations. These data 
+sets can be mined to gain insights and used 
+in machine learning projects, predictive 
+modeling and other advanced analytics 
+applications.
+Big data can be used to improve operations, 
+provide better customer service and create 
+personalized marketing campaigns -- all of 
+which can increase value for an organization. 
+As an example, big data analytics can provide 
+companies with valuable insights (a deep 
+understanding) into their customers that 
+can then be used to refine marketing 
+techniques to increase customer 
+engagement and conversion rates
+Semi-structured data is a 
+combination of structured and 
+unstructured data and shares 
+characteristics of both
+
+16
+
+BIG DATA ANALYTICS
+It is a process to store and examine large volume of data from various sources and systematically 
+extract information from that.
+•
+Big data analytics 
+describes the process of 
+uncovering trends, 
+patterns, and 
+correlations in large 
+amounts of raw data to 
+help make data-
+informed decisions.
+•
+Provides various 
+advantages—it can be 
+used for better decision 
+making, preventing 
+fraudulent activities, 
+among other things.
+•
+Is used to extract 
+meaningful insights, 
+such as hidden 
+patterns, unknown 
+correlations, market 
+trends, and customer 
+preferences.
+•
+Descriptive analytics: 
+Allows us to find out what 
+happened and when.
+•
+Diagnostic analytics: 
+Explains why and how 
+something happened by 
+identifying patterns and 
+relationships in available 
+data.
+•
+Predictive analytics: Uses 
+historical data to 
+uncover patterns and 
+make predictions on 
+what’s likely to happen 
+in the future.
+•
+Prescriptive analytics: 
+Provides specific 
+recommendations on 
+what should be done 
+better.
+17
+
+BIG DATA CHARACTERISTICS
+•
+Big Data describes large sets of diverse structured, 
+unstructured, and semi-structured data that are 
+continuously generated at a high speed and in 
+high volumes.
+•
+However, to understand Big Data, we need to get 
+acquainted with its attributes known as the Five 
+V’s:
+1.
+Volume: This relates to terabytes to petabytes of 
+information coming from a range of sources such 
+as IoT devices, social media, text files, business 
+transactions, etc.
+2.
+Velocity: Is the speed at which the data is 
+generated and processed. It’s represented in terms 
+of batch reporting, near real-time/real-time 
+processing, and data streaming.
+3.
+Variety: Is the vector showing the diversity of Big 
+Data, showcasing that it isn’t just about structured 
+data that resides within relational databases as 
+rows and columns.
+4.
+Veracity: Is the measure of how truthful, accurate, 
+and reliable data is and what value it brings as it 
+can be incomplete, inconsistent, or noisy thus 
+decreasing the accuracy of the analytics process. 
+Due to this, data veracity is commonly classified as 
+good, bad, and undefined. 
+Data in industry 4.0 is generated from 
+multiple diverse sources:
+1) Product and machine design data
+2) Data from control systems
+3) Staff work monitoring video data
+4) System monitoring data
+5) Environmental data
+6) Product usage data
+7) Fault detection data
+8) User feedback data
+Benefits of Big Data 
+Analytics:
+1.
+Cost savings
+2.
+Product 
+development
+3.
+Market insights
+4.
+Detecting fraud
+18
+
+19
+
+20
+
+21
+Characteristics of Big data- The five V’s are Volume, velocity, variety, veracity, and value.
+The Volume of data: The Volume of data has expanded exponentially over the last few years. This data can be 
+structured, semi-structured, and unstructured, and it focuses on the sheer amount of data rather than its content. The 
+main challenges of managing huge data include storage limitations, processing power requirements, and bandwidth 
+capabilities.
+The velocity of data: Time is an important factor when assessing big data as new information emerges continuously 
+throughout the day. Data is generated rapidly, and big data velocity determines the pace at which it is collected from 
+the real world. With everyone coming into the Information Age and producing data at high speeds, the velocity of 
+data is increasing exponentially. The problem with this is that we can’t handle the amount of data coming in.
+This led to a need for data processing. Electronic Data processing is the streamlining of data. The more complicated 
+solution is data investment, which involves making sense of the vast amount of data we have received lately to make 
+accurate decisions.
+Variety of Data: Along with Volume and velocity, the diversity of big data or different data types such as images, 
+videos, etc., presents a unique challenge for organizations to manage their wide range of content effectively. It was 
+reported that more than 90% of the world’s data was created in the last two years alone. This creates a challenge 
+because there are too many data sources and it’s not properly organized and managed.
+The veracity of Data: Big Data contains large quantities of ambiguous and dirty (unverified) data that needs to be 
+cleaned and organized before serving its purpose. Semi-Structured data, for example, is often incomplete or 
+inaccurate, which makes data cleansing a challenging process.
+
+22
+Value of Data: While the other V(s) represent 
+external factors affecting big data, the value 
+represents the internal factors associated with 
+business strategy and execution. To extract maximum 
+value from Big Data, companies and data scientists 
+need to have a clear goal for what they want to achieve 
+through their analysis. Once this is established, they 
+can determine which information needs to be collected 
+and how it will be used.
+
+23
+
+HOW BIG DATA ANALYTICS WORK?:
+1.
+Collect Data: Data collection looks different for every organization, 
+as they gather both structured and unstructured data from a variety 
+of sources like cloud storage to mobile applications to in-store IoT 
+sensors and beyond.
+2.
+Process Data: Once data is collected and stored, it must be 
+organized properly to get accurate results on analytical queries, 
+especially when it’s large and unstructured. 
+•
+Batch processing is useful when there is a longer turnaround time between 
+collecting and analyzing data. 
+•
+Stream processing looks at small batches of data at once, shortening the 
+delay time between collection and analysis for quicker decision-making. 
+3.
+Clean Data: Data big or small requires scrubbing to improve data 
+quality and get stronger results; all data must be formatted correctly, 
+and any duplicative or irrelevant data must be eliminated. Dirty data 
+can obscure and mislead, creating flawed insights.
+4.
+Analyze Data: Getting big data into a usable state takes time. Once 
+it’s ready, advanced analytics processes can turn big data into big 
+insights. Some of these big data analysis methods include:
+•
+Data mining sorts through large datasets to identify patterns and 
+relationships by identifying anomalies and creating data clusters.
+•
+Predictive analytics uses an organization’s historical data to make 
+predictions about the future, identifying upcoming risks and opportunities.
+•
+Deep learning imitates human learning patterns by using AI and ML to 
+layer algorithms and find patterns in the most complex and abstract data.
+•
+ML and AI tap various algorithms to analyze large data sets.
+•
+Data visualization tools
+Applications of Big Data Analytics:
+1.
+Ecommerce
+2.
+Marketing
+3.
+Education
+4.
+Media and entertainment
+5.
+Banking
+6.
+Telecommunications
+7.
+Government
+24
+
+Cyber Physical Systems
+A cyber-physical system (CPS) is an engineered system that 
+integrates physical components with computation. CPSs are 
+designed to sense the state of the system and environment, provide 
+feedback for controlling the system, and perform real-time sensing 
+and dynamic control.
+Cyber Physical system (CPS) is a new generation of digital systems, 
+composed of computational and physical capability that engages 
+with humans like never before. It's designed to act like a network of 
+multiple variables with both physical input and output – rather than 
+standalone technology.
+25
+
+Cyber-physical systems (CPS) are interconnected systems that combine 
+physical and computational elements. They are used in many fields, including 
+government operations, critical infrastructure, and daily life. Here are some 
+examples of CPS:
+Smart buildings: Building management systems (BMS) monitor, manage, and 
+control systems like HVAC, electricity, security, and fire safety. This can help 
+buildings operate more efficiently and save energy.
+Smart grids: These systems can be vulnerable to attacks that cause blackouts.
+Autonomous vehicles: These systems can be hijacked by attackers, which 
+could lead to accidents.
+Medical devices: These systems can be vulnerable to cyber-spies and insider 
+attacks
+26
+
+CYBER PHYSICAL SYSTEMS
+Cyber-Physical Systems(CPS) are integrations of computation, networking, and physical processes. They are automated systems that 
+enable connection of the operations of the physical reality with computing and communication infrastructures.
+•
+Sensing and actuation components: It allow a CPS to interact with the physical world involving embedded sensors that measure 
+parameters like temperature or pressure. The data collected by these sensor networks must be processed and communicated to 
+other parts of the system, so that appropriate decisions can be made.
+•
+Information processing and communication components: These are necessary to decide how to actuate on the physical system. 
+The processed data must then be communicated to other parts of the system to take appropriate actions.
+•
+Control components: It could involve a controller that regulates the flow of information and controls the system’s actuation. The 
+control component must be designed to ensure that the system meets its objectives while considering uncertainties in the 
+physical world.
+•
+Interfaces with humans: It allow people to interact with the information system using a graphical user interface that enables users 
+to monitor the system and input commands. 
+27
+
+•
+A CPS consists of a control unit, usually one or more microcontroller(s), which 
+control(s) the sensors and actuators that are necessary to interact with the real 
+world, and processes the data obtained.
+•
+These embedded systems also require a communication interface to 
+exchange data with other embedded systems or a cloud.
+•
+The data exchange is the most important feature of a CPS, since the data can 
+be linked and evaluated centrally.
+•
+The processes allied with CPS include devices and buildings, medical 
+processes, coordination and logistics, and transportation routes and systems.
+•
+CPS enables internet-enabled physical objects with integrated computers and control elements. This allows for self-monitoring, data 
+production, and communication with other entities. Digital twins play a significant role, where virtual replicas of objects facilitate data 
+analysis and provide real-time visibility of specialized records and processes.
+•
+IoT and CPS have different origins, with IoT rooted in networking and IT, while CPS is driven by systems engineering and control. CPS 
+applications contribute to energy efficiency and reduced greenhouse gas emissions. IoT use cases span across various industries, 
+including healthcare, logistics, and manufacturing, with applications in track and trace options and structural health monitoring.
+•
+To maximize the benefits of CPS, effective communication between hardware and software components is crucial. The use of AI can 
+automate decision-making processes and allow employees to focus on situations that require their attention. The successful 
+implementation of CPS relies on a hub for data interchange and collection, enhancing production processes with automation and 
+knowledge integration.
+28
+
+An embedded system is a computational system embedded within a physical system. An interface to the Internet or a similar network is 
+necessary to extend an embedded system to a CPS.
+IMPLEMENTATION OF CPS WITH INDUSTRY 4.0
+Direct System Extension:
+•
+Here, the embedded system, is extended by a communication interface 
+to access the Internet and the software is changed accordingly to 
+enable communication over the internet, e.g. with the cloud.
+•
+To this end, all the sensor signals of the system must be transmitted by the 
+control unit to the cloud. 
+•
+Methods should be implemented to control the actuators via Internet.
+System Expansion by Microcontroller Board:
+•
+Here, microcontroller board that has the various communication 
+interfaces such as CAN, UART, WLAN, Ethernet, etc. is developed.
+•
+This is connected to the embedded system which takes over the 
+communication to the Internet or a cloud via uniform interfaces, over 
+which the board can be connected to the embedded system.
+•
+The software of the board must be adjusted separately to each system.
+•
+Only the mapping is to be reworked accordingly so that it is relatively easy 
+to transfer this variant to other systems.
+Extension by Smart Actuators and Sensors:
+•
+Traditionally control unit assumes the signal processing function.
+•
+The sensors take over the processing of the signal and the actuators 
+independently check their current status, and correct it, if necessary.
+•
+These sensors transmit their data to a central control unit via field buses.
+•
+To extend such a system to a CPS, data is sent from the sensors and 
+actuators, to a cloud, and process it there.
+•
+However, a high data volume is the result here and the cost of smart 
+sensors and actuators must not be underestimated.
+29
+
+CPS REFERENCE ARCHITECTURE MODELS:
+5C Architecture Overview:
+•
+The 5C Architecture is a proposal based on automation processes 
+models, centered on data acquisition for industrial devices, with 5 
+levels for system operation.
+•
+The 5C Architecture provides an implementation guide for CPS 
+ecosystems, but some basic characteristics were not considered for its 
+application in the Industry4.0 scenario.
+•
+It is necessary to consider information flow both vertically and 
+horizontally between products and machines, processing them 
+according to client specifications.
+•
+Connectivity among clients and service providers in the industry 
+(distinct industries) is essential for I4.0 services to be connected to the 
+Internet along with controllers, machines, products, and other objects.
+•
+Services like stock management, load transport requests, and 
+purchases can be automated through factory virtualization, leading 
+to the Internet of Services (IoS), a key pillar of I4.0.
+•
+Other reference models like RAMI 4.0 and IIRA were created to meet 
+the needs of the current scenario and provide I4.0 standardization.
+•
+The 5C Architecture focuses on assets data acquisition and processing, commonly used in embedded systems and  
+small industrial environments.
+•
+RAMI 4.0, based on SGAM, adapts CPS architecture for the I4.0 scenario, emphasizing manufacturing plant operation and integrating 
+the value chain of the company.
+•
+IIRA, based on ISO/IEC/IEEE 42010, is centered on IIoT systems concerns in all sectors, emphasizing interoperability among industries.
+30
+
+RAMI 4.0 ARCHITECTURE OVERVIEW:
+•
+RAMI 4.0 is an Architecture Reference Model for Industry 4.0, created by 
+Platform Industrie 4.0, to define communication structures and a common 
+language within the factory, enabling integration of IoT and services in the 
+I4.0 context.
+•
+RAMI 4.0 is a Service Oriented Architecture (SOA) that combines IT 
+components to promote horizontal and vertical integration within a factory, 
+connecting products and the Cloud.
+•
+RAMI 4.0 is represented by a three-dimensional map with three axes: 
+Hierarchy Levels, Product Life-cycle, and Architecture Layers.
+•
+Axis 1 (Hierarchy Levels) focuses on flexible machines and systems, distributed 
+functions, and improved communication among all involved participants, 
+treating products as part of the architecture.
+•
+Axis 2 (Product Life-cycle) describes assets from idea to production, usage, 
+and maintenance, representing objects with value for an organization, such 
+as devices or equipment.
+•
+Axis 3 (CPS Proposal) encompasses the Architecture Layers and focuses on 
+Industry 4.0 Components (I4.0C), globally and uniquely identifiable objects 
+with communication capacity.
+•
+I4.0C includes an asset and an Administration Shell (AS) containing relevant 
+information for asset management, representing the physical and digital 
+aspects of a machine, equipment, or product.
+•
+AS serves as a standardized interface for communication networks, 
+connecting physical entities to Industry 4.0.
+•
+All Administration Shells (digital twins) are managed by a Superior System 
+Administration Shell (SAS), facilitating intercommunication between them.
+31
+
+IIRA ARCHITECTURE OVERVIEW:
+•
+IIRA (Industrial Internet Reference Architecture) is an open 
+architecture developed by IIC (Industrial Internet Consortium) based 
+on IIoT standards, emphasizing interoperability among industries.
+•
+IIRA is organized into four Viewpoints: Business Viewpoint, Usage 
+Viewpoint, Implementation Viewpoint, and Functional Viewpoint.
+•
+The Business Viewpoint identifies participants and their business 
+views, values, and objectives in IIoT systems.
+•
+The Usage Viewpoint describes the IIoT system's expectations to 
+provide the intended business objectives.
+•
+The Implementation Viewpoint identifies the technologies required 
+to implement the functional components, their communication 
+schemes, and life-cycle procedures.
+•
+The Functional Viewpoint focuses on the functional components, 
+their inter-relation, interaction with external elements, and is divided 
+into five domains: control, operation, information, application, and 
+business.
+•
+The Functional Viewpoint also includes Crosscutting Functions that 
+enable the main system functions and System Characteristics, which 
+are properties or emergent behaviors of the IIRA system.
+•
+Among the Crosscutting Functions, the Connectivity function is 
+responsible for connecting the system functions and ensuring their 
+interaction for complete functionality.
+32
+
+AI / ML:
+Artificial Intelligence(AI):
+•
+AI is a computer program which enables a machine 
+to simulate human behaviour like learning, planning, 
+reasoning, problem solving, etc.
+•
+There are two concepts of AI which are Machine 
+Learning and Deep Learning. In ML, a computer 
+software can automatically learn from a submitted 
+data and adapt to new conditions.
+•
+Machine Learning (ML) automatically detect patterns 
+in data, and then use the uncovered patterns to 
+predict (future) outcomes.
+AI in Industry 4.0:
+•
+In smart industries, hyper-connected manufacturing processes 
+depend on AI automation systems by capturing and interpreting all 
+data types.
+•
+AI provides appropriate information to take decision-making and 
+alert people of possible malfunctions.
+•
+Industries use AI to process data transmitted from the Internet of 
+things (IoT) devices and connected machines based on their desire 
+to integrate them into their equipment.
+•
+Designers enter design parameters and the software produces all 
+possible results that these parameters can provide allowing 
+designers to create thousands of design alternatives for a 
+component.
+33
+
+•
+Robotics:
+•
+Cobots or collaborative robots are also commonly used in warehouses 
+and manufacturing plants to lift heavy car parts or handle assembly.
+•
+AI in quality control:
+•
+AI-powered vision systems can recognize defects, pull products or fix 
+issues before the product is shipped to customers. 
+•
+AI in predictive maintenance:
+•
+Predictive maintenance analyzes data from connected sensors on 
+equipment to determine when maintenance is needed. 
+•
+AI in automation:
+•
+Robotic process automation (RPA) is the process by which AI-powered 
+robots handle repetitive tasks such as assembly or packaging.
+•
+AI in the supply chain:
+•
+AI systems for supply chain optimization, focuses on demand 
+forecasting, optimizing inventory, and finding the most efficient 
+shipping routes. 
+•
+Price forecasting of raw material:
+•
+AI powered software like can predict materials prices more accurately 
+than humans and it learns from its mistakes.
+•
+AI Autonomous Vehicles:
+•
+Vehicles that drive themselves may automate the entire factory floor, 
+from the assembly lines to the conveyor belts.
+Applications of AI in Industry 4.0:
+Advantages of AI in Industry 4.0:
+1. Speed
+2. Less Waste
+3. Cost Savings
+4. ON-Demand Production
+5. Faster Decision making 
+6. 24/7 production
+34
+
+INTERNET OF THINGS
+Internet of Things(IOT) is a network of interrelated devices that connect and exchange data with other 
+IOT devices and the Cloud.
+IOT devices contain sensors and mini-processors that gather and collect data which is sent to the cloud 
+via WiFi or Lan connection for further processing via machine learning. 
+Advantages of IOT:
+•
+Monitoring & Accessibility: 
+IOT devices can collect 
+and monitor data to keep 
+track of things in real time. 
+This data can be accessed 
+and control remotely too.
+•
+Speed & Convenience: Big 
+Data which needs to be 
+processed can now be 
+automated and makes 
+complicated tasks easier 
+which generally takes a lot 
+of time.
+Disadvantages of IOT:
+•
+Internet Dependent: IOT 
+devices need to be 
+connected to the cloud all 
+time for proper 
+functioning.
+•
+Data Breach & Security 
+Risks: Big Data which 
+needs to be processed 
+can now be automated 
+and makes complicated 
+tasks easier which 
+generally takes a lot of 
+time.
+35
+
+INDUSTRIAL INTERNET OF THINGS(IIOT)
+Industrial Internet of Things(IIOT) is an ecosystem of devices, 
+sensors, applications and networking equipment that work 
+together to collect, monitor and analyse data from Industrial 
+Operations.
+Using IIOT is platforms, companies connect, monitor, analyse 
+and act on industrial data in new ways to improve efficiency, 
+maximize revenue growth, reduce costs and more.
+Main driver of IIOT are smart machines, as they capture and 
+analyse data in real time which humans cannot and 
+communicate their findings in a fast and simple manner.
+IIOT system typically comprise of:
+•
+Smart Equipment which stores and relays information 
+•
+Public or Private Internet network as a data comm structure
+•
+Analytical Applications that process raw data for insights
+•
+Decision-Making tools which help employees utilize data.
+36
+
+Benefits of IIOT
+Improve Quality: 
+Secure and scale 
+product, service, 
+factory operations 
+all while improving 
+service quality and 
+customer 
+satisfaction.
+Lower Op Costs: 
+Unlocks industrial 
+data from 
+connected systems 
+to boost productivity 
+and efficiency. 
+Maximize Revenue:
+Eliminates downtimes 
+and operational 
+blocks to keep 
+revenue growing.
+Which Industries use IIOT?
+•
+Automotive Industry: Industrial robots are in use here to 
+maintain these systems and spot potential problems which 
+can disrupt production. Further, data is collected from 
+customer systems and sent to company systems for analysis.
+•
+Agriculture Industry: Industrial sensors collect data about soil 
+nutrients, moisture and other variables, enabling farmers to 
+produce optimal crop.
+•
+Oil and Gas Industry: Some oil companies maintain e fleet of 
+autonomous aircraft to use visual and thermal imaging to 
+detect problems in pipelines and ensure safe operations.
+37
+
+Which Industry can benefit from IOT and IIOT?
+•
+Manufacturing: Manufacturers gain a competitive advantage by using production-line monitoring 
+to enable proactive maintenance on equipment when sensors detect impending failure.
+•
+Transportation and Logistics: - Transportation and logistical systems benefit from a variety of IoT 
+applications. Fleets of cars, trucks, ships, and trains that carry inventory can be rerouted based on 
+weather conditions, vehicle availability, or driver availability, thanks to IoT sensor data. The 
+inventory itself could also be equipped with sensors for track-and-trace and temperature-control 
+monitoring.
+•
+Retail: IoT applications allow retails companies to manage inventory, improve customer 
+experience, optimize supply chain and reduce operational costs.
+•
+Public Sector: Government-owned utilities can use IoT-based applications to notify users of mass 
+outages and smaller interruptions of water, power and sewer services.
+•
+Healthcare: IoT asset management provides multiple benefits to the healthcare industry like real-
+time patient monitoring, drug prediction, storage analysis and other asset management.
+38
+
+INTERNET OF SERVICES
+•
+Internet of Services(IoS) refers to the 
+interconnection and interaction of various 
+services through the Internet. 
+•
+Service vendors thus offer their services as 
+software components via cloud. 
+•
+Objective of IoS is to present software 
+applications, platforms for developing and 
+delivering these applications and various 
+underlying infrastructures like CPU’s, Storage, 
+Networks and so on. 
+Examples of IoS:
+•
+eBay, Amazon, Flipkart, etc.
+•
+Tesla automobile company which provides hardware and software support to their customers 
+which generates revenue for the company.
+•
+Otis sells predictive maintenance services packages of elevators and lifts which generates revenue.
+39
+
+Web 2.0 is characterized by four 
+aspects: 
+•
+Interactivity: AJAX and XML 
+technologies allow the 
+communication and dynamic 
+manipulation of data 
+between a server and web 
+browser. 
+•
+Social Network: Based on 
+common interests, makes the 
+information from each 
+network available through 
+different ways.
+•
+Tagging: Users add a keyword 
+as a tag to certain web 
+contents, making this tag 
+easily reachable when 
+searched by other users. 
+•
+Web Services: Allow software 
+features to be available to 
+humans as well as machines.
+SOA is characterized by:
+•
+Technology Neutral: SOA 
+services must be invoked 
+through lowest common 
+denominator technologies 
+such that invocation 
+mechanisms comply with 
+widely accepted standards. 
+•
+Loosely Coupled: Services 
+must not require knowledge 
+or any internal structure at 
+the client or service side.
+•
+Support Location 
+Transparency: Services 
+should have their definitions 
+and location information 
+stored in a repository such 
+as UDDI and be accessible 
+to a variety of clients that 
+can invoke the services.
+SOA is a way of designing and 
+building a set of IT applications 
+where application components and 
+web services make their functions 
+available on the same access 
+channel for mutual use.
+SOA has 2 broad classifications:
+•
+Business Perspective: Represents 
+a set of services that improve 
+capability of the company.
+•
+Technology Perspective: SOA is a 
+modularized project philosophy 
+with different service use cases.
+40
+
+Classification of IoS:
+The IoS can be classified as Business service, e-service and web service: 
+Business Service:
+•
+Here, a service is considered to be an activity 
+which is intangible by nature.
+•
+Business activities provided by a service 
+provider to a service consumer to create value 
+for him.
+•
+Services lack concrete characteristics and 
+hence must be defined indirectly in terms of 
+effects they have on consumers.
+E-Service:
+•
+It’s a collection of network-based software services, whose functionality can be automatically 
+discovered and integrated into applications to form complex services.
+•
+These are services for which internet is used as a channel to interact with consumers..
+Web Service:
+•
+Defined as a “Software System designed to 
+support interoperable machine-to-machine 
+interaction over a network.”
+•
+Web Services on-line delivery 
+functionalities(services) offer simple input and 
+output interfaces.
+•
+There are 3 types: RPC Web Services, SOA Web 
+Services and REST-ful Web Services.
+Challenges in IoS:
+•
+Scalability of Services: Service fluctuations due to workload.
+•
+Monitoring of Services: Payment mechanisms based on individual resource usage.
+•
+Context Awareness of Applications: Environment activity adaptation.
+41
+
+SMART FACTORIES:
+A smart factory is a digitised manufacturing 
+facility that uses connected devices, machinery 
+and production systems to continuously collect 
+and share data. This data is then used to 
+improve processes. 
+The smart factory are an aspect of Industry 4.0, 
+a new phase in the Industrial Revolution that 
+focuses heavily on real-time data, embedded 
+sensors, connectivity, automation, and 
+machine learning.
+Four levels of Smart Factory Evolution:
+1. Level 1 – Connected Data: Connecting different data sources together in one location to track real-
+time progress and enable engineers to work and increase plant productivity. 
+2. Level 2 – Predictive Analysis: AI and ML are used to track data patterns, identify issues and take 
+preventive action to avoid downtime while visualizing data with display dashboards.
+3. Level 3 – Prescriptive Analysis: Here, active data is not only used to predict downtimes but also 
+recommend fixes and inform people allowing production optimization.
+4. Level 4 – AI Driven Automation: In this stage, all recommended fixes are automatically executed .
+42
+
+WHAT TECHNOLOGIES ARE USED IN SMART FACTORIES :
+Sensors: Sensors on 
+devices and machines are 
+used at specific stages of 
+the manufacturing process 
+to collect data that can be 
+used to monitor processes. 
+These sensors can be linked 
+to a network to provide 
+joined-up monitoring across 
+several machines.
+Cloud Computing: 
+Large amounts of data are 
+stored and processed on 
+servers via cloud 
+computing. This is flexible 
+and cheaper than on-site 
+storage.
+Big Data Analytics: Big data allows 
+for error patterns to be spotted and 
+predictive quality assurance undertaken 
+with a greater degree of accuracy. This 
+data can be shared between different 
+factories or even organizations to solve 
+common problems and further optimize 
+processes.
+AR/VR: AR is a digital 
+technology that involves 
+information being overlayed 
+across reality and viewed via a 
+smartphone, while VR is a more 
+immersive virtual world that 
+requires special glasses. Both of 
+these technologies can help 
+smart factory operators to 
+organize products, and the 
+maintenance and repair of 
+equipment.
+Digital Twins: A digital twin 
+can be used to represent a 
+process or physical object and 
+simulate performance in the real 
+world. This can lead to 
+efficiency improvements 
+Industrial IoT(IIoT): Industrial IoT refers to interconnected 
+devices, machines, and/or processes that are linked by data 
+communication systems to facilitate the exchange and the use 
+of data between people and machines. These instruments 
+have sensors that collect meaningful data points on a cloud or 
+off-line database for tracking and identifying ways to improve 
+the manufacturing process. Industrial IoT enables operational 
+efficiency, control, and visibility into actionable key metrics.
+43
+
+Benefits of Smart Factories:
+•
+Smart factories use connected 
+equipment and devices to allow 
+for evidence-based decision-
+making to optimize efficiency 
+and productivity throughout the 
+manufacturing process.
+•
+By collecting and analyzing data, 
+it is possible to schedule 
+preventive and predictive 
+maintenance - to avoid 
+production line shutdowns. 
+•
+Smart factory technologies are 
+engineered to adapt to different 
+manufacturing environments and 
+production setups. This ensures 
+maximum operational flexibility.
+•
+In smart factories, the probability 
+of human error in manufacturing 
+operations is reduced due to 
+high-level automation.
+44
+
+INDUSTRY 4.0 ENVIRONMENT AND DESIGN PRINCIPLES:
+Conventional Automation : 
+•
+use of machines, robotics, and 
+control systems to perform tasks 
+with minimal human 
+intervention. 
+•
+replacing manual labor and 
+streamlining specific processes, 
+without extensive connectivity 
+or data-driven insights.
+Automation in Industry 4.0:
+•
+leveraging digital technologies, 
+connectivity, and data analytics 
+to create smart, flexible, and 
+interconnected systems. 
+•
+characterized by the integration 
+of CPS, IoT, cloud computing, 
+artificial intelligence, big data 
+analytics, and machine learning
+45
+
+Task-specific automation: Machines and robots are 
+programmed to perform specific tasks repeatedly, 
+such as assembly line operations or material 
+handling.
+Limited connectivity: Conventional automation 
+systems often work in isolation and have limited 
+communication and connectivity with other 
+machines or systems.
+Centralized decision-making: Decisions are usually 
+made by human operators or a centralized control 
+system based on pre-programmed instructions or 
+simple rule-based logic.
+Limited data utilization: While data may be 
+collected during automation processes, it is not 
+extensively used for real-time monitoring, analysis, or 
+optimization
+CHARACTERISTICS OF 
+CONVENTIONAL AUTOMATION: 46
+
+CHARACTERISTICS OF CONVENTIONAL AUTOMATION:
+Internet of Things (Virtualization): 
+Connected devices and sensors gather vast 
+amounts of data from various sources, 
+facilitating Seamless communication and 
+collaboration between machines, humans, 
+and systems. This enables a virtual copy of 
+the Smart Factory which is created by 
+linking sensor data with virtual plant models 
+and simulation models.
+Cyber-physical systems: Physical machines, 
+devices, and sensors are connected to digital 
+systems, enabling real-time data exchange and 
+decision-making. 
+Decentralized decision-making: Intelligent 
+systems and algorithms empower machines to 
+make autonomous decisions based on real-
+time data, enabling agile and adaptive 
+manufacturing processes.
+47
+
+Data-driven insights (Real-Time Capability): 
+Advanced analytics and machine learning 
+algorithms analyze the collected data to 
+generate actionable insights, optimize 
+operations, predict maintenance needs, 
+and improve overall performance.
+Enhanced human-machine interaction 
+(Service Orientation): Industry 4.0 envisions 
+humans and machines working together 
+harmoniously, with humans focusing on 
+complex decision-making, creativity, and 
+problem-solving, while machines handle 
+repetitive and data-intensive tasks.
+Customization and flexibility (Modularity): 
+Industry 4.0 enables the efficient production 
+of highly customized products through 
+flexible manufacturing processes that can 
+adapt to changing customer demands.
+48
+
+Continuous Improvement: by analysis of data, 
+organizations can identify inefficiencies, 
+bottlenecks, and areas for optimization
+DESIGN PRINCIPLES
+Human Machine Interaction: human 
+involvement and collaboration with machines 
+and intelligent systems
+Information Transparency: relevant data and 
+information accessible to all stakeholders 
+Cybersecurity: Protecting sensitive data, 
+intellectual property, and ensuring the 
+integrity of systems and networks 
+Flexibility and Modularity: ability to quickly 
+reconfigure and adapt production lines, 
+machinery, and processes
+Decentralized Decision Making: make 
+autonomous decisions based on predefined 
+rules or algorithms 
+Inter-Connectivity: machines, devices, sensors, 
+and systems 
+49
+
+PHYSICAL MEGA TRENDS
+•
+3D Printer: 
+Manifesting physical 
+objects based on 
+digital config 
+•
+New Materials: 
+Lighter, stronger, 
+recyclable, (Eg: 
+Graphene, 
+thermoset plastics) 
+•
+Advanced Robotics: 
+Uses for automation, 
+agriculture, nursing 
+•
+Lean Manufacturing 
+technology: focuses 
+on minimizing waste 
+within manufacturing 
+systems while 
+simultaneously 
+maximizing 
+productivity 
+•
+Driverless vehicles 
+(Drone)
+50
+
+•
+Internet of Things
+•
+RFID: Tracking, 
+Asset 
+Management
+•
+Bitcoin: Digital 
+Currency
+•
+Blockchain: 
+Securing banking 
+transactions
+•
+Car-Pooling(Uber 
+Model): Sharing 
+and pooling the 
+resources for 
+better utilization
+DIGITAL MEGA TRENDS
+51
+
+BIOLOGICAL MEGA TRENDS
+•
+Genetic sequencing: 
+determining the order of the 
+four chemical building blocks -
+called "bases" - that make up 
+the DNA molecule 
+•
+DNA writing: refers to the 
+process of artificially 
+synthesizing DNA molecules in 
+a controlled and deliberate 
+manner to create custom DNA 
+sequences 
+•
+Recommender system (IBM 
+Watson): you can leverage 
+tools and services to build, 
+train, and deploy 
+recommender systems using 
+different techniques 
+•
+Cell Modification 
+•
+Genetic Engineering(CRISPER): 
+involves manipulating the 
+genetic material of organisms 
+to achieve specific outcomes
+52
+
+SUSTAINABILITY:
+•
+Sustainability is the core business strategy 
+for the future, as highlighted in the United 
+Nations Sustainable Development Goals.
+•
+They include fostering areas like low-
+impact industrialization, energy-efficient 
+buildings, and smart manufacturing.
+SUSTAINABILITY AND IND 4.0:
+•
+Continue at a fixed price 
+•
+Energy efficiency, Resource conservation, 
+Low-waste production
+•
+Globalization: Business model, Emerging 
+markets, Supply-chain Management, 
+Adapting state-of-art ICT
+•
+Energy consumption: from non-renewable 
+to renewable
+•
+Government Regulations: Environment 
+guidelines, Privacy regulations, 
+employment & labor rule, advertisement 
+regulations, safety and health guidelines
+•
+Economic crises/ recession
+53
+
+TYPES OF WASTES:
+•
+Transportation – Excessive movements of people for materials or information 
+•
+Waiting – Period of inactivity of people for material or information 
+•
+Motion – Non value-added movement of people 
+•
+Inventory – Cost of inventory such as raw materials, work in process, finished goods
+•
+Over-processing – Doing more work in product than customer values 
+•
+Defects – Defects can be in products or paper works 
+•
+Overproduction – Producing more product sooner than the customers ready for consumption
+IND 4.0 IN INDIA:
+•
+Smart Advanced Manufacturing and Rapid Transformation Hub (SAMARTH) 
+•
+Five CEFC (Common Engineering Facility Center) Projects are: 
+○Center for Industry 4.0 (C4i4) Lab Pune 
+○IITD-AIA Foundation for Smart Manufacturing 
+○I4.0 India at IISc Factory R&D Platform 
+○Smart Manufacturing Demo & Development Cell at CMTI 
+○Industry 4.0 projects at DHI CoE in Advanced Manufacturing Technology, IIT Kharagpur
+54
+
+AGRICULTURE IN INDUSTRY 4.0:
+Industry 4.0 
+Impact on 
+Agriculture
+Sustainable Practices: 
+Industry 4.0 has facilitated sustainable 
+farming practices including reducing 
+waste, minimizing environmental impact 
+and optimizing resource usage.
+Enhanced Efficiency:
+Industry 4.0 technologies have improved 
+the overall efficiency of agricultural 
+processes with faster data processing, 
+reduced manual labor, and optimized
+resource utilization.
+Precision Agriculture:
+Precision Agriculture:
+Precision agriculture involves using IoT
+sensors for precise control of inputs like
+water, fertilizers, and pesticides.
+Data-Driven Decision-Making:
+Industry 4.0 allows for the collection of 
+vast amounts of data, which can be 
+analyzed to make more informed and 
+timely decisions.
+55
+
+SMART FARMING INITIATIVE
+Integration of IoT and Sensor 
+Technology: 
+Deploying a network of sensors and IoT 
+devices to collect real-time data on 
+various agricultural parameters such as 
+soil moisture levels, temperature, 
+humidity, and crop health. 
+Data Analytics and 
+Predictive Modeling:
+Utilizing advanced 
+analytics and machine 
+learning algorithms to 
+process the vast amount 
+of data generated by
+sensors. This enables 
+predictive modeling for 
+tasks like yield 
+forecasting, disease 
+detection, and optimal 
+planting times.
+Automation and 
+Robotics:
+Implementing 
+autonomous machinery 
+and robotic systems for 
+tasks like planting, 
+irrigation, harvesting, and 
+even precision spraying. 
+This reduces the reliance 
+on manual labor and 
+enhances operational 
+efficiency.
+Precision Agriculture Practices:
+Implementing precision agriculture 
+techniques, which involve tailoring 
+inputs like water, fertilizers, and 
+pesticides to specific areas of field 
+based on data-driven 
+recommendations.
+56
+
+Drones and Aerial 
+Imaging:
+Utilizing drones equipped 
+with specialized cameras 
+and sensors for aerial 
+monitoring. This provides 
+valuable insights into 
+crop health, growth 
+patterns, and the 
+identification of potential 
+issues such as pest 
+infestations or nutrient 
+deficiencies.
+Remote Monitoring and 
+Control:
+Enabling farmers to 
+remotely monitor and 
+manage their operations 
+through cloud-based 
+platforms. This includes
+accessing real-time data, 
+controlling equipment, 
+and making informed 
+decisions without being 
+physically present on the 
+farm.
+Precision Agriculture Practices:
+Implementing precision agriculture 
+techniques, which involve tailoring 
+inputs like water, fertilizers, and 
+pesticides to specific areas of the field 
+based on data-driven 
+recommendations.
+Enhanced Decision-Making:
+Providing farmers with actionable 
+insights derived from data analytics. This 
+empowers them to make informed
+decisions about planting, irrigation, pest 
+control, and harvesting.
+57
+
+Sustainable Farming Practices:
+Promoting environmentally sustainable 
+practices through the adoption of 
+technologies that reduce the overall
+ecological footprint of agricultural 
+operations. 
+Resource Optimization:
+Maximizing resource utilization, 
+including water, energy, and 
+fertilizers, to minimize waste and 
+environmental impact.
+Improved Crop Quality and Yield:
+By leveraging technologies for precise 
+monitoring and control, farmers can optimize 
+conditions for crops, leading to higher quality 
+produce and increased yields.
+Economic Viability:
+Increasing the economic viability of farming 
+operations by optimizing resource use, 
+reducing waste, and enhancing overall 
+efficiency.
+Adaptability and Scalability:
+Smart Farming Initiatives are designed to be 
+adaptable to different types of agriculture 
+(e.g., row crops, orchards, livestock) and can 
+be scaled to suit farms of varying sizes.
+Continuous Innovation and Research:
+Fostering a culture of innovation by staying 
+abreast of emerging technologies and 
+conducting ongoing research to improve and 
+expand the capabilities of the Smart Farming 
+Initiative. 
+Data Privacy and Security:
+Addressing the critical considerations of 
+protecting sensitive agricultural data, 
+including implementing robust security 
+measures and ensuring compliance with data 
+privacy regulations.
+Community and Stakeholder Engagement:
+Involving various stakeholders, including 
+farmers, agricultural experts, technology 
+providers, and policymakers, in the planning, 
+implementation, and evaluation of the Smart 
+Farming Initiative.
+58
+
+Sensor Deployment:
+• Types of Sensors: Various 
+types of sensors are deployed 
+across the farm to monitor 
+different parameters. These 
+can include soil moisture 
+sensors, temperature sensors, 
+humidity sensors, pH sensors, 
+nutrient sensors, weather 
+sensors, and more. 
+• Placement and Density: 
+Sensors are strategically 
+placed in different areas of 
+the farm to ensure
+comprehensive coverage. The 
+density of sensors depends on 
+factors like the size of the farm, 
+the type of crops, and the 
+specific requirements of the 
+farming operation.
+Data Collection and 
+Transmission:
+• Real-Time Data Collection: 
+Sensors continuously monitor 
+their respective parameters in 
+real time. Eg, soil moisture 
+sensors measure the moisture 
+content in the soil at regular 
+intervals. 
+• Wireless Communication: 
+Data collected by the sensors 
+is transmitted wirelessly to a 
+central hub or gateway. This 
+can be through technologies 
+like Wi-Fi, LoRa (Low Range), 
+Zigbee, or cellular networks, 
+depending on the specific 
+requirements of the farm. 
+• Data Encryption and 
+Security: Encryption protocols 
+are employed to protect 
+unauthorized data access.
+IoT in Smart Farming
+IoT in Smart Farming involves the 
+deployment of a network of 
+interconnected devices and sensors on 
+the farm, which collect, transmit, and 
+receive data related to various 
+agricultural processes. This data is then 
+analyzed to provide valuable insights and 
+enable informed decision-making.
+59
+
+Centralized Data Storage and 
+Management:
+• Cloud-Based Platforms: The 
+collected data is stored in 
+cloud-based platforms or on-
+premises servers. Cloud storage 
+allows for easy accessibility, 
+scalability, and collaboration 
+with other stakeholders. 
+Data Processing and Analysis:
+• Data is processed and 
+analyzed to extract meaningful 
+insights. This can be done using 
+specialized software or through 
+cloud-based analytics 
+platforms. 
+• Data Visualization: The 
+analyzed data is often 
+presented in a user-friendly 
+interface, such as a dashboard 
+or a mobile application. This 
+allows farmers to easily interpret 
+and act upon the information. 
+Alerts and Notifications:
+• Threshold Monitoring: 
+Farmers can set predefined 
+thresholds for different 
+parameters. When these
+thresholds are crossed (e.g., 
+soil moisture levels drop below 
+a certain point), the system 
+can send alerts or notifications 
+to the farmer's devices.
+Remote Monitoring and 
+Control:
+• Mobile Applications: Farmers 
+can access the data and 
+control various aspects of their 
+farm remotely through 
+dedicated mobile 
+applications. For example, 
+they can remotely adjust 
+irrigation schedules based on 
+soil moisture levels. 
+60
+
+Data Historical Logging:
+• Historical Data Storage: The IoT platform 
+maintains a historical record of the data 
+collected over time. This allows for trend 
+analysis, helping farmers make long-term 
+decisions based on historical patterns.
+Scalability and Flexibility:
+• Expandability: The IoT system can be easily 
+scaled to accommodate additional sensors 
+or devices as the farm's needs evolve.
+Power Management:
+• Battery Life and Power Efficiency: For 
+sensors that are not hardwired, power 
+management is crucial. Battery-powered 
+sensors need to be designed for long life to 
+minimize maintenance.
+61
+
+Integration with Other Systems:
+• APIs and Integrations: IoT platforms can be integrated 
+with other farm management systems, such as irrigation 
+controllers, automated machinery, and even weather 
+forecasting services. This enables
+seamless coordination between different components 
+of the farm.
+Data Ownership and Privacy:
+• Ownership Rights: Clear policies are established 
+regarding data ownership. This is important to ensure 
+that the farmer retains control over the data generated 
+by their operations. 
+Maintenance and Upkeep:
+• Regular Inspections: Sensors and devices require 
+periodic maintenance to ensure they are functioning 
+correctly. This includes checking for physical damage, 
+battery status, and proper connectivity.
+Training and Familiarization:
+• User Training: Farmers and farmworkers need to be 
+trained on how to effectively use and interpret the 
+data provided by the IoT system. This includes 
+understanding alerts, making adjustments based on 
+data, and troubleshooting basic issues.
+62
+
+Sustainability and Environmental Benefits
+Promotion of sustainability. Precision agriculture practices led to resource conservation, reduced environmental 
+impact, and more efficient use of inputs like water and fertilizers.
+Reduced Environmental Impact:
+Industry 4.0 technologies in agriculture leads to a 
+decreased environmental footprint, such as reduced 
+emissions or soil erosion.
+Efficient Input Usage:
+Industry 4.0 enables more efficient use of inputs like water 
+and fertilizers. Benefits in terms of cost savings and 
+environmental sustainability.
+Resource Conservation:
+Industry 4.0 technologies contribute to resource 
+conservation by using examples of reduced water usage 
+and optimized fertilizer application 
+63
+
+HEALTHCARE 4.0:
+Importance of Health Care 4.0 
+in the Modern World:
+Industry 4.0 has set a new 
+paradigm for the manufacturing 
+industry. New technologies like 
+digitization, visualization, business 
+intelligence and artificial 
+intelligence are on the rise. The 
+healthcare industry has also 
+encountered the same, especially 
+that it is now at the dawn of a 
+foundational change into the new 
+era with the emerging use of smart 
+and connected healthcare 
+devices. 
+A strategic concept for the health 
+domain that's derived from the 
+Industry 4.0 concept. It's often 
+used synonymously with digital 
+health, m-health, e-health, and 
+smart health. 
+64
+
+KEY COMPONENTS OF HEALTHCARE 4.0:
+•
+Big Data Analytics:
+Data Aggregation: Collecting and 
+integrating vast amounts of healthcare data 
+from various sources, including electronic 
+health records (EHRs), wearables, and 
+medical devices.
+Data Analysis: Using advanced analytics to 
+derive meaningful insights from large 
+datasets, enabling predictive analytics, trend 
+analysis, and personalized medicine.
+•
+Internet of Things(IoT):
+Remote Monitoring: IoT devices such as smart 
+wearables and sensors allow continuous 
+monitoring of patients’ vital signs and health 
+parameters remotely.
+Smart Medical Devices: Connected medical 
+devices and equipment enable real-time 
+data sharing, improving diagnostics and 
+treatment.
+65
+
+•
+AI/ML:
+Diagnostic Assistance: AI-powered algorithms 
+analyze medical images, pathology samples, 
+and patient data, aiding healthcare 
+professionals in accurate and faster 
+diagnostics. 
+Treatment Optimization: ML algorithms analyze 
+patient data to suggest personalized 
+treatment plans, medication dosages, and 
+therapy options. 
+•
+Blockchain Technology:
+Securing Health Records: Blockchain ensures 
+secure and tamper-proof storage of patient 
+records, enhancing data security and 
+protecting patient privacy. 
+Enhancing Data Integrity: Medical research 
+data and clinical trials can be stored on 
+Blockchain, ensuring the integrity and 
+authenticity of the information.
+66
+
+•
+Telemedicine and Virtual Health:
+Remote Consultations: Virtual consultations 
+and telemedicine services enable patients to 
+consult healthcare providers from anywhere, 
+improving accessibility and reducing 
+healthcare disparities. 
+Telemonitoring: Remote monitoring of 
+patients with chronic conditions, allowing 
+healthcare professionals to track vital signs 
+and intervene as necessary. 
+•
+AR/VR: 
+Medical Training: AR and VR technologies 
+provide immersive training experiences for 
+medical professionals, allowing them to 
+practice surgeries and procedures in a virtual 
+environment. 
+Pain Management and Therapy: VR is used in 
+pain distraction techniques and therapy 
+sessions, reducing pain and anxiety for 
+patients during treatments.
+•
+Robotics and Automation:
+Robotic Surgery: Robots assist surgeons in 
+performing precise and minimally invasive 
+surgeries, leading to faster recovery times and 
+reduced complications. 
+Automated Workflows: Automation streamlines 
+administrative tasks, appointment scheduling, 
+billing, and inventory management, improving 
+operational efficiency.
+•
+Genomics and Precision Medicine:
+Genomic Sequencing: Advances in genomics 
+allow for the sequencing of an individual’s 
+DNA, enabling personalized treatment plans 
+and targeted therapies. 
+Precision Medicine: Tailoring medical 
+treatments and interventions based on a 
+patient’s genetic makeup, lifestyle, and 
+environmental factors, improving treatment 
+efficacy
+67
+
+BENEFITS OF HEALTHCARE 4.0:
+•
+Cost Reduction:
+Preventive Care: Early intervention and preventive 
+measures reduce the need for costly treatments and 
+hospitalizations. 
+Operational Efficiency: Automation and data-driven 
+decision-making optimize resource utilization, reducing 
+operational costs for healthcare facilities.
+•
+Empowering Patients:
+Access to Information: Patients have access to their 
+medical records, test results, and personalized health 
+information, empowering them to actively participate in 
+their healthcare decisions. 
+Self-Monitoring: Wearable devices allow patients to 
+monitor their health parameters, encouraging a 
+proactive approach to health management.
+•
+Data-Driven Decision Making: 
+Predictive Analytics: Predictive models based on big 
+data assist healthcare providers in forecasting disease 
+outbreaks, optimizing resource allocation, and improving 
+overall healthcare planning. 
+Clinical Insights: AI-driven insights derived from large 
+datasets aid clinicians in making informed decisions 
+about diagnosis, treatment, and medication.
+68
+
+•
+Telemedicine and Virtual Health:
+Personalized Treatment: Tailored healthcare solutions 
+based on individual patient data lead to more effective 
+treatments and better outcomes.
+Early Disease Detection: Predictive analytics and AI 
+algorithms help in early detection of diseases, enabling 
+timely interventions and improving chances of recovery.
+•
+Enhanced Disease Prevention and Management:
+Proactive Monitoring: IoT devices enable continuous 
+monitoring of patients with chronic conditions, allowing 
+healthcare professionals to intervene before 
+complications arise. 
+Behavioral Insights: Data analytics help in understanding 
+patient behaviors and lifestyle choices, facilitating 
+targeted interventions for healthier living.
+•
+Efficient Healthcare Delivery: 
+Streamlined Workflows: Automation of administrative tasks 
+and data management processes reduces paperwork, 
+allowing healthcare providers to focus more on patient 
+care. 
+Telemedicine: Remote consultations and monitoring 
+improve access to healthcare services, especially for 
+patients in rural or underserved areas, leading to quicker 
+diagnosis and treatment.
+69
+
+Challenges of HealthCare 4.0:
+1.
+Data Breaches & Privacy Concerns
+Data Breaches: With the increased digitization of 
+healthcare data, there's a higher risk of data 
+breaches and cyber-attacks, potentially 
+compromising patient confidentiality and privacy.
+Compliance: Adhering to data protection 
+regulations while sharing and storing patient data 
+poses significant challenges, especially when 
+dealing with cross-border healthcare services. 
+2.
+Integration of Technologies
+Interoperability: Ensuring seamless communication 
+and data exchange between different healthcare 
+systems, devices, and applications is a complex 
+task, requiring standardized protocols and 
+interfaces. 
+Legacy Systems: Many healthcare facilities still use 
+legacy systems that are not compatible with 
+modern technologies, making integration difficult 
+and costly. 
+3.
+Workforce Training & Skill Development
+Lack of Digital Skills: Healthcare professionals need 
+training to effectively use new technologies like AI, 
+IoT, and blockchain, which may not be readily 
+available or accessible to everyone. 
+Change Management: Resistance to change 
+among healthcare staff can hinder the adoption 
+of new technologies and workflows, requiring 
+effective change management strategies.
+70
+
+INDUSTRY 4.0 FRAMEWORK CHALLENEGS
+Digital transformation is a complex task for 
+companies, requiring a lot of resources, a strategy, 
+etc. Change management has been researched 
+for many years, but there isn’t a unified strategy to 
+manage such complex projects.
+The implementation of Industry 4.0 technologies 
+also depends on the groundwork done in the 
+company’s ICT architecture. Excellence in IT is 
+both a driver and a key enabler of the digital
+transformation.
+A theoretical framework to asses the managerial 
+challenges of implementing Industry 4.0 solutions is 
+shown on the left.
+The basic concept of IoT is a global network of 
+machines and devices that can interact with 
+each other . Both physical products and services
+are needed to implement IoT applications. IoT in 
+Industrial companies can further be divided into 
+Industrial Internet of Things (IIoT).
+71
+
+CHALLENGES IN IMPLEMENTING IOT
+IoT Security:
+IoT devices have been notoriously 
+vulnerable to cyber attacks. There are 
+countless examples of IoT devices 
+being incorporated into botnets or 
+being hacked to misuse or access 
+other parts of a network.
+Coverage:
+IoT devices need network 
+connection to transmit and receive 
+data. Loosing device connection 
+looses devices capabilities. IoT 
+connectivity depends on coverage 
+types. Hence solutions limit 
+deployment. 
+Scalability:
+The largest IoT 
+manufacturers have 
+millions of devices 
+deployed around
+the world. As businesses 
+scale, they often 
+piecemeal together their 
+IoT stack, adopting 
+different connectivity 
+solutions for deployments 
+in new regions.
+Each of these comes with 
+different management 
+platforms, support
+systems, and underlying 
+technologies. The
+larger the scale of your 
+operations, the more 
+overwhelming device
+management, and 
+logistics become.
+72
+
+Interoperability:
+Not all IoT devices and solutions are
+compatible with each other or with your 
+business applications. Adding
+new hardware and software to the mix 
+may require you to make a chain
+reaction of changes to keep the 
+functionality you need while
+accommodating the new tech.
+Bandwidth Availability:
+Radio Frequency bandwidth is a finite resource the entire 
+world has to share. Even with billions of connected devices, 
+there’s more than enough to go around. But when too 
+many of these devices use the same frequency bands in 
+the same location, their signals interfere with each other.
+Limited Battery Life:
+Most IoT devices have small batteries. This is mainly because 
+the devices are often incredibly small. Larger batteries 
+could restrict a device’s use cases or limit where and how 
+the device can be installed. 
+Remote Access:
+The type of connectivity an IoT device uses can change 
+how you’re able to access the device. For example, using 
+your customers’ WiFi or ethernet requires support personnel 
+to either have VPN privileges or be on the premises. On-site 
+visits are extremely expensive, but if that’s the only way a 
+technician can troubleshoot or update your device, you’re 
+stuck paying the additional costs.
+73
+
+CHALLENGES IN IMPLEMENTING CLOUD COMPUTING
+Data Security and Privacy:
+Data security is a major concern when 
+switching to cloud computing. User or 
+organizational data stored in the cloud 
+is critical and private. Even if the cloud 
+service provider assures data integrity, 
+it is your responsibility to carry out user 
+authentication and authorization, 
+identity management, data 
+encryption, and access control.
+Multi-Cloud Environments:
+Due to an increase in the options to 
+the companies, enterprises not only 
+use a single cloud but depend on 
+multiple cloud service providers. Most 
+of these companies use hybrid cloud 
+tactics and close to 84% are 
+dependent on multiple clouds. This 
+ends up being hindered and difficult 
+to manage for the infrastructure team.
+Performance Challenges:
+Performance is an important factor 
+while considering cloud-based 
+solutions. If the performance of the 
+cloud is not satisfactory, it can drive 
+away users and decrease profits. Even 
+a little latency while loading an app or 
+a web page can result in a huge drop 
+in the percentage of users.
+Cost Management:
+Even as almost all cloud service 
+providers have a “Pay As You Go”
+model, which reduces the overall cost 
+of the resources being used,
+there are times when there are huge 
+costs incurred to the enterprise
+using cloud computing.
+CHALLENGES IN 
+IMPLEMENTING 
+CLOUD 
+COMPUTING
+74
+
+Interoperability and Flexibility:
+When an organization uses a 
+specific cloud service provider 
+and wants to switch to another 
+cloud-based solution, it often 
+turns up to be a tedious 
+procedure since applications 
+written for one cloud with the 
+application stack are required 
+to be re-written for the other 
+cloud. There is a lack of 
+flexibility from switching from 
+one cloud to another due to 
+the complexities involved.
+High Dependence on 
+Network:
+Since cloud computing 
+deals with provisioning 
+resources in real-time, it 
+deals with enormous 
+amounts of data transfer 
+to and from the servers. 
+This is only made possible 
+due to the availability of 
+the high speed network.
+Lack of Knowledge 
+and Expertise:
+Due to complex nature 
+and high demand for 
+research working with 
+the cloud, it becomes 
+a tedious task requiring 
+immense knowledge 
+and wide expertise on 
+the subject.
+75
+
+Some of the Big Data challenges are:
+• Sharing and Accessing Data:
+The most frequent challenge in big data efforts is the 
+inaccessibility of data sets from external sources. Sharing 
+data can cause substantial challenges. Accessing data 
+from public repositories leads to multiple difficulties.
+• Privacy and Security:
+It is another most important challenge with Big Data. This 
+challenge includes sensitive, conceptual, technical as 
+well as legal significance. Most of the organizations are 
+unable to maintain regular checks due to large amounts 
+of data generation. 
+• Analytical Challenges:
+Analytical challenges like very large data volume, find 
+data points, using data to best advantage.
+• Technical Challenges:
+Data Quality, Data Storage costs, etc.
+• Fault Tolerance:
+Fault tolerance computing is extremely hard, involving 
+intricate algorithms
+• Scalability:
+Big data projects can grow and evolve rapidly. The 
+scalability issue of Big Data has lead towards cloud 
+computing. 
+76
+
+Challenges in implementing data analytics
+1. Collecting meaningful data
+2. Selecting the right analytics tool
+3. Data visualization
+4. Data from multiple sources
+5. Low-Quality Data
+6. Data Analysis skills challenges
+7. Front-end Technologies
+Challenges in implementing smart 
+manufacturing systems in industry
+• Technical Skills Gap
+• Data Sensitivity
+• Interoperability
+• Security
+• Handling Data Growth
+Challenges in implementing supply chain 
+management
+• Unexpected delays
+• Cost control
+• Increasing freight prices.
+• Difficult demand forecasting. ...
+• Digital transformation. ...
+• Port congestion.
+Challenges in implementing smart product
+• Technical Challenge
+• Design Challenge
+• Workflow Challenge
+77
+
+SENSING AND COMPUTING 
+•
+Sensors are devices that can 
+measure physical quantities such as 
+temperature, pressure, vibration, 
+and motion. 
+•
+They are used to collect data from 
+machines, equipment throughout 
+the manufacturing process which is 
+used to monitor performance, 
+identify potential problems, and 
+improve efficiency. 
+•
+Computing is the process 
+of storing, processing, and 
+analyzing data.
+•
+It is used to make sense of 
+the data collected by 
+sensors which can be 
+used to automate tasks, 
+make decisions, and 
+improve products and 
+services. 
+Predictive maintenance: 
+Sensors can be used to 
+monitor the condition of 
+machines and equipment, 
+and to predict when 
+maintenance is needed. 
+This can help to reduce 
+downtime and extend the 
+lifespan of assets.
+Quality control: Sensors 
+can be used to inspect 
+products at various 
+stages of the 
+manufacturing process, 
+and to identify defects. 
+This can help to improve 
+product quality and 
+reduce waste
+Process optimization: 
+Sensors can be used to 
+collect data on how 
+manufacturing processes 
+are performing. This data 
+can be used to identify 
+areas where 
+improvements can be 
+made.
+Product development: 
+Sensors can be used to 
+collect data on how 
+customers use 
+products. This data 
+can be used to 
+develop new products 
+and improve existing 
+products
+APPLICATIONS OF SENSING AND COMPUTING IN IND4.0
+78
+
+Different 
+types of 
+Sensors in 
+IND 4.0
+Temperature sensors: Temperature sensors 
+are used to measure the temperature of 
+machines, equipment, and products. This 
+information can be used to monitor 
+performance, identify potential problems, 
+and optimize processes. 
+Location sensors: Location sensors 
+are used to track the location of 
+products and assets. This information 
+can be used for inventory 
+management, asset tracking, and 
+supply chain management. 
+Level sensors: Level sensors are 
+used to measure the level of 
+fluids and solids in tanks and 
+containers. This information can 
+be used to manage inventory 
+and ensure that processes are 
+running smoothly.
+Audio sensors: Audio sensors are 
+used to capture audio of machines 
+and processes. This information can 
+be used for fault detection, process 
+monitoring, and quality control.
+Vibration sensors: Vibration 
+sensors are used to measure 
+the vibration of machines and 
+equipment. This information 
+can be used to monitor their 
+condition and identify 
+potential problems.
+Pressure sensors: Pressure 
+sensors are used to measure 
+the pressure of fluids and 
+gases. This information can be 
+used to monitor pipelines, 
+tanks, and other equipment. 
+Image sensors: Image sensors 
+are used to capture images of 
+products and processes. This 
+information can be used for 
+inspection, quality control, and 
+process monitoring. 
+79
+
+Quantum sensors: Quantum sensors are based on the principles of quantum mechanics. 
+They can be used to measure a wide range of physical quantities with unprecedented 
+accuracy and precision. Quantum sensors have the potential to revolutionize many 
+industries, including manufacturing, healthcare, and environmental monitoring
+Graphene sensors: Graphene is a lightweight and flexible material with excellent 
+electrical and thermal conductivity. Graphene sensors can be used to measure a wide 
+range of physical quantities, including temperature, pressure, strain, and chemical 
+composition. Graphene sensors are also very sensitive and fast, making them ideal for 
+real-time monitoring and control applications.
+Nanotube sensors: 
+Nanotubes are very 
+sensitive and fast sensors. 
+They can be used to 
+measure a variety of 
+physical quantities, 
+including temperature, 
+pressure, strain, and 
+chemical composition. 
+They are also very flexible 
+and can be embedded in 
+textiles and other materials. 
+This makes them ideal for 
+wearable devices where 
+small and lightweight 
+sensors are required.
+Bio-inspired sensors: 
+Bio-inspired sensors are 
+designed to mimic the 
+sensory systems of living 
+organisms. Some bio-
+inspired sensors are 
+based on the eyes of 
+insects, while others are 
+based on the olfactory 
+systems of animals. Bio-
+inspired sensors have 
+the potential to create 
+new and innovative 
+ways of sensing the 
+world around us
+Next 
+Generation 
+Sensors in 
+IND 4.0
+80
+
+GE: GE develops 
+and deploys 
+predictive 
+maintenance 
+solutions for its 
+customers. GE's 
+solutions use data 
+from sensors to 
+predict when 
+machines are likely 
+to fail, allowing 
+customers to 
+schedule 
+maintenance 
+before failures 
+occur, which can 
+help to reduce 
+downtime and 
+extend the lifespan 
+of their assets
+Smart factories: 
+Smart factories 
+use computing 
+to connect 
+machines, 
+equipment, and 
+sensors to a 
+central network. 
+This allows 
+manufacturers 
+to collect data 
+from all aspects 
+of the 
+production 
+process and use 
+it to improve 
+efficiency, 
+quality, and 
+safety. 
+Digital twins: 
+Digital twins are 
+virtual 
+representations 
+of physical 
+objects, such as 
+machines, 
+equipment, and 
+products. Digital 
+twins can be 
+used to simulate 
+and analyze the 
+behavior of 
+physical objects. 
+This information 
+can then be 
+used to improve 
+the design and 
+operation of 
+physical objects.
+Siemens: Siemens 
+uses computing 
+to create digital 
+twins of its 
+factories. These 
+digital twins are 
+used to simulate 
+and test changes 
+to factory layouts 
+and production 
+processes before 
+they are 
+implemented in 
+the real world. 
+This helps 
+Siemens to 
+improve the 
+efficiency of its 
+factories and to 
+reduce costs. 
+Tesla: Tesla 
+uses 
+computing to 
+analyze data 
+from sensors 
+on its cars to 
+predict when 
+maintenance 
+is needed. This 
+allows Tesla to 
+schedule 
+maintenance 
+before failures 
+occur, which 
+helps to 
+reduce 
+downtime 
+and extend 
+the lifespan of 
+its cars
+Artificial 
+intelligence (AI): AI 
+is being used to 
+automate tasks, 
+make decisions, 
+and improve 
+products and 
+services in Industry 
+4.0. Like develop 
+self-driving robots 
+that can perform 
+tasks such as 
+welding, assembly 
+and develop 
+predictive 
+maintenance 
+systems that can 
+predict when 
+maintenance is 
+needed on 
+machines.
+HOW COMPUTING IS USED IN IND 4.0:
+COMPUTING EXAMPLES
+Increased 
+Efficiency
+Reduced 
+Costs and 
+Downtime
+Improved 
+quality & 
+Customer 
+Satisfaction
+New 
+product 
+develop-
+ment
+Extended 
+lifespan 
+of assets
+BENEFITS OF 
+SENSING AND 
+COMPUTING IN 
+IND 4.0:
+81
+
+DIGITAL AND HUMAN WORKSPACE:
+A digital workspace is an integrated technology framework that centralizes the management of an 
+enterprise's applications, data and endpoints, allowing employees to collaborate and work remotely.
+Benefits of Digital Workspace:
+•
+Flexibility: Virtual desktops and other digital workspace technology allow employees to work wherever and whenever they 
+want, on whichever device they prefer. This provides workers with a greater sense of control over their lives since their work life and 
+personal life.
+•
+Productivity: Flexibility benefits also encourages increased employee productivity as they are less likely to take sick days since 
+they aren't required to come into an office.
+•
+Improved Collaboration: A digital workspace encourages easy, interactions between coworkers and supervisors. Links, 
+data, documents and images can be easily shared, and employees can work on projects together regardless of their physical 
+location. 
+•
+High Retention Rates: The empowerment that comes from increased flexibility also helps workers trust and respect their 
+superiors and feel like they are trusted and respected in return. This increases employee satisfaction and makes it more likely that 
+workers will commit to and remain with the company for extended periods of time.
+•
+Better Customer Service: The digital workspace often incorporates technologies that offer self-service education and 
+analytics. These, in addition to a strong employee experience, can elevate the level of customer service provided by employees.
+•
+Reduced Costs: Since a digital workspace eliminates the need for a physical work environment, companies can benefit by 
+saving on previous expenses.
+Features of Digital Workspace:
+•
+Provides users with self-service, cross platform scalability, device-ownership models.
+•
+Brings all resources – OS’es, files, apps, into one place providing a cloud based console for ease of management.
+•
+Provides single-sign-on(SSO) for identity authentication and secure file sharing across organization endpoints.
+82
+
+Challenges of a Digital Workspace:
+•
+Digital Workspace lacks central notification provisions:
+•
+Here, notifications are spread across various systems and apps. This results in email inbox being primary 
+notification centre for digital workspaces. Efficiency is decreased throughout the workforce since more time 
+and energy is required to track events.
+•
+Security Challenges:
+•
+The digital workspace increases the number of applications and systems being used as well as the amount 
+of sharing that occurs. This creates a need for stronger and more scalable security that allows users to 
+collaborate with external partners securely. But, securing and managing data produced through this 
+external collaboration is one of the biggest challenges in the digital workspace. 
+•
+Training and Adoption Challenges:
+•
+Users often complain that they are not provided with proper training when new systems are introduced and, 
+therefore, do not know how to leverage the technology to improve their work processes. On the other 
+hand, employees often do not have enough time to provide or attend these training sessions while 
+continuing to manage their daily responsibilities. As a result, users often provide negative feedback when 
+asked about training processes. 
+•
+Inadequate & Incomplete Search Interface in Digital Workspace:
+•
+Information within the digital workspace platform is often split across multiple systems without a centralized 
+index. So, search queries may not display all related or relevant material.
+83
+
+A crucial part of the underlying 
+architecture for a digital workspace is 
+unified endpoint management (UEM), a 
+centralized approach to securing and 
+controlling desktop computers, laptops, 
+smartphones in a connected, cohesive 
+manner from a single console.
+•
+Virtual desktops and virtualized apps
+•
+Content collaboration and file 
+sharing
+•
+Enterprise mobility management 
+(EMM) 
+•
+Mobile device management (MDM) 
+and mobile application 
+management (MAM)
+•
+Secure access to software as a 
+service (SaaS) apps and secure 
+browsing
+•
+Single sign-on features
+•
+Advanced analytics and monitoring
+Digital Workspace Tools:
+84
+
+How to Implement a successful Digital Workspace:
+•
+Vision: The digital workspace should not be 
+implemented until the company - including 
+stakeholders and business, HR and facilities 
+managers - comes to a clear agreement on the 
+purpose and goal of the platform. 
+•
+Strategy: A digital workspace strategy should 
+be created to guide initiatives and changes 
+within research and development, 
+manufacturing, marketing, sales, customer 
+support, IT and human resources (HR). 
+•
+Employee Experience: Consider how a digital 
+workspace can be used to strengthen the 
+company's employee experience; this will, in 
+turn, improve customer service.
+•
+Employee Personas: The systems used by HR are 
+likely very different from the technology used by 
+DevOps. However, personas also include factors 
+such as an employee's mobile use while 
+working, technology consumption, 
+organizational knowledge, collaboration needs 
+and content creation responsibilities.
+85
+
+•
+Digital Security: The combination of social media, 
+and cloud computing technologies increases the 
+risk of data security issues. Technologies and 
+procedures must be implemented to ensure the 
+protection of data in the cloud.
+•
+Business Applications: Each application should 
+help business processes in some way. Knowledge 
+management (KM) and collaboration platforms 
+are two essential applications. 
+•
+Compatibility: A successful digital workspace 
+allows employees to use any internet-connected 
+device to access business applications. 
+•
+Mobility: Users can access the business 
+applications from wherever they choose to work 
+and at any time of day.
+•
+Communication Infrastructure: A digital 
+workspace must manage simultaneous data, 
+video and voice communications occurring both 
+inside and outside the company's network.
+•
+Telecommunication Tools: Includes real-time video 
+conferencing and voice calling services.
+86
+
+DIGITAL TWIN
+A digital twin is a virtual model designed to accurately reflect a physical object. It is a virtual 
+representation of a real-world entity or process.  It is composed of three primary elements:
+•
+A physical entity in real space;
+•
+Digital twin in software form(virtual representation)
+•
+Data that links the first two elements together.
+Difference between digital twin and simulators:
+•
+Simulations and digital twins both utilize digital 
+models to replicate a system’s various 
+processes, a digital twin is actually a virtual 
+environment, which makes it considerably 
+richer for study.
+•
+While a simulation typically studies one 
+particular process, a digital twin can itself run 
+any number of useful simulations in order to 
+study multiple processes.
+•
+Digital twins are designed around a two-way 
+flow of information that first occurs when object 
+sensors provide relevant data to the system 
+processor and then happens again when 
+insights created by the processor are shared 
+back with the original source object.
+87
+
+Essential Properties related to digital twin
+•
+A digital twin functions as a proxy for the 
+current state of the thing it represents. It also 
+is unique to the thing represented, not simply 
+generic to the category. Moreover, the 
+digital twins of two seemingly identical 
+products will not usually be identical.
+•
+While many digital twins have a 2D or 3D 
+computer-aided design (CAD) image 
+associated with them, visual representation is 
+not a prerequisite. The digital representation, 
+or digital model, could consist of a database, 
+a set of equations or a spreadsheet. 
+•
+The data link, often but not necessarily two-
+way, is what differentiates digital twins from 
+similar concepts. This link makes it possible for 
+users to investigate the state of the object or 
+process by querying the data, and for 
+actions communicated through the digital 
+twin to take effect in its physical counterpart.
+Key Aspects of Digital Twin Technology:
+•
+Synchronization: To make sure the digital twin 
+and the represented entity mirror each other as 
+closely as possible. 
+•
+Frequency/Speed: At which data is updated in a 
+digital twin varies enormously, purpose wise.
+•
+Fidelity: Degree of precision of & accuracy of 
+virtual representation and sync mechanism. 
+88
+
+Types of digital twin
+Components / Parts Twin:
+Component twins are the basic 
+unit of digital twin, the smallest 
+example of a functioning 
+component. Parts twins are 
+roughly the same thing, but 
+pertain to components of slightly 
+less importance. 
+89
+
+Asset twins (product). Two or more 
+components whose interaction is 
+represented in the digital twin.
+System twins (unit). Assets assembled into a 
+complete, functioning unit
+Process twins. Systems working together to 
+serve a larger goal.
+90
+
+Benefits of digital twin
+•
+Because they're virtual, digital twins can 
+reduce the cost and risk of having to work on 
+the physical things they represent. 
+•
+Improved operational efficiency from having 
+more timely data and faster, more effective 
+production; 
+•
+More effective and less expensive R&D from 
+replacing physical prototypes, which can be 
+expensive and hard to modify, with virtual 
+prototypes that are more flexible and 
+produce more data;
+•
+Longer uptime for equipment because 
+maintenance issues can be investigated in a 
+single digital twin instead of having to shut 
+down all the equipment to isolate a problem;
+•
+Improved product end-of-life processes, such 
+as refurbishment and recycling, thanks to 
+more accurate information about the age 
+and contents of a product. 
+Digital twin Interoperability
+•
+While they usually start in CAD and 
+PLM, some digital twins are also 
+managed in ERP and material 
+requirements planning (MRP) software.
+•
+ERP and MRP store the bill of materials 
+(BOM), a comprehensive inventory of 
+the materials and parts needed to 
+make a product and typically a major 
+contributor of digital twin data. ERP 
+and MRP together also run many of the 
+supply chain and production 
+processes that go into manufacturing 
+a product. 
+•
+Another common source of digital twin 
+data is the manufacturing execution 
+system (MES) that many companies 
+use to monitor, control and optimize 
+production systems on the factory 
+floor.
+91
+
+Challenges of Digital twin
+•
+Data Management: Data cleansing is often 
+needed to make data from a CAD model or 
+IoT sensor usable in a digital twin. A data lake 
+might need to be established to manage the 
+digital twin data and perform analytics on it. 
+Deciding who owns the data is another 
+problem. 
+•
+Supplier collaboration: The numerous 
+participants in a supply chain must be willing 
+to share information from their own production 
+processes to ensure that the information in a 
+digital twin is complete.
+•
+Complexity. The data collected in the 
+different software applications used by a 
+manufacturer and its suppliers is not only 
+voluminous, it changes often. Last-minute 
+design changes, for example, must make it 
+into the final version of the twin so the 
+customer and manufacturer have the most 
+current information. 
+•
+System integration: Digital twins often begin life 
+in CAD software but get more use in PLM, 
+where they're used in post-sale services, such as 
+performance monitoring and equipment 
+maintenance. Numerous CAD and PLM 
+software vendors have one-to-one integrations, 
+but it isn't always adequate and smaller 
+vendors may have no built-in integration. 
+•
+Data Security: Digital twin data is timely and 
+mission critical, but it also travels through 
+several networks and software applications, 
+which makes securing it at every stage 
+challenging. 
+•
+IoT Development: As the preferred data source 
+for most of the real-time and historical data 
+about an entity or process, IoT sensors are 
+usually a basic requirement of digital twins. 
+Implementing IoT presents big challenges in 
+network infrastructure and storage capacity, 
+device and data security, and device 
+management. 
+92
+
+Digital twin market and Industries
+•
+Physically large projects: Buildings, bridges 
+and other complex structures bound by strict 
+rules of engineering. 
+•
+Mechanically complex projects: Jet turbines, 
+automobiles and aircraft. Digital twins can 
+help improve efficiency within complicated 
+machinery and mammoth engines. 
+•
+Power equipment: This includes both the 
+mechanisms for generating power and 
+transmitting it. 
+•
+Manufacturing projects: Digital twins excel at 
+helping streamline process efficiency, as you 
+would find in industrial environments with co-
+functioning machine systems.
+93
+
+Applications of Digital twin
+•
+Power-generation equipment: Large 
+engines—including jet engines, locomotive 
+engines and power-generation turbines—
+benefit tremendously from the use of digital 
+twins, especially for helping to establish 
+timeframes for regularly needed 
+maintenance. 
+•
+Structures and their systems: Big physical 
+structures, such as large buildings or offshore 
+drilling platforms, can be improved through 
+digital twins, particularly during their design. 
+Also useful in designing the systems operating 
+within those structures, such as HVAC systems.
+94
+
+•
+Manufacturing operations: Since digital twins are 
+meant to mirror a product’s entire lifecycle, it’s 
+not surprising that digital twins have become 
+ubiquitous in all stages of manufacturing, guiding 
+products from design to finished product, and all 
+steps in between.
+•
+Healthcare services: Just as products can be 
+profiled through the use of digital twins, so can 
+patients receiving healthcare services. The same 
+type system of sensor-generated data can be 
+used to track a variety of health indicators and 
+generate key insights.
+95
+
+•
+Automotive industry: Cars represent many types 
+of complex, co-functioning systems, and digital 
+twins are used extensively in auto design, both to 
+improve vehicle performance and increase the 
+efficiency surrounding their production. ●Urban 
+planning.
+•
+Civil engineers and others involved in urban 
+planning activities are aided significantly by the 
+use of digital twins, which can show 3D and 4D 
+spatial data in real time and also incorporate 
+augmented reality systems into built 
+environments.
+96
+
+Future of Digital twin
+The future of digital twins is nearly 
+limitless, due to the fact that 
+increasing amounts of cognitive 
+power are constantly being 
+devoted to their use. So digital 
+twins are constantly learning new 
+skills and capabilities, which 
+means they can continue to 
+generate the insights needed to 
+make products better and 
+processes more efficient.
+97
+
+AUTONOMOUS ROBOTS
+Robots are programmable machines that are usually able to carry out a series of actions 
+autonomously or semi-autonomously. An autonomous robot is a robot that can perform tasks 
+without human intervention. 
+The integration of flexible and cooperative 
+autonomous robots provide manufacturers with a 
+broadened range of services to accomplish complex 
+tasks. Sometimes referred to as “cobots”, autonomous 
+robots in smart factories work alongside humans and 
+interact with other factory technology. 
+They often have sophisticated features that can help 
+them understand their physical environment and 
+automate parts of their maintenance and direction
+98
+
+Robot:
+1. Robots are mechanical devices that can automatically perform specific operation 
+2. This can be controlled by an external control devices or a built-in control device 
+3. The shape of robots is given depending upon its characteristics and purposes of the work 
+4. It can be used for monotonous, repetitive, tedious, and dangerous jobs that exist in industrial sites 
+5. It is extensively used at places where human being cannot reach. 
+Basic Objective of Designing Robots:
+●To increase productivity ●Reduce production life 
+●Minimize labor requirement 
+●Enhanced quality of the products 
+●Minimize loss of man hours, on account of accidents. 
+●Make reliable and high speed production
+Application of Robots:
+●Industrial: Material handling, Mechanical Operations, 
+Inspection Operations, Assembly Operations, Processing
+●Non-Industrial: Medical fields, Article Writing, Customer 
+Service, Distribution Field, Information Processing(human info)
+99
+
+Robots of Different Generation:
+•
+First Generation Robot: 
+o Simple Mechanical Arm 
+o Precision Movement
+•
+Second Generation Robot:
+o Has rudimentary machine elements 
+o Equipped with sensor that updates about environment
+o Includes pressure sensor, radar, sonar and vision system 
+o Has controller that process data from the sensor
+•
+Third Generation Robot:
+o Autonomous Robot
+•
+Fourth Generation Robot:
+o Cognitive Robot
+•
+Fifth Generation Robot:
+o Robot with AI
+1st Gen
+2nd Gen
+3rd Gen
+4th Gen
+5th Gen
+100
+
+Present Application of Robots:
+●Material transfer applications 
+●Machine loading and unloading 
+●Processing operations like
+(a) Spot welding 
+(b) Continuous arc welding 
+(c) Spray coating 
+(d) Drilling, routing, machining 
+operations 
+(e) Grinding, polishing 
+deburring wire brushing 
+(g) Laser drilling and cutting.
+●Assembly tasks, assembly cell 
+designs, parts mating. 
+●Inspection, automation.
+Future Application of Robots:
+(a)Intelligence 
+(b)Mobility and navigation (walking 
+machines)
+(c)Universal gripper 
+(d)Systems and integration and networking 
+(e)FMS (Flexible Manufacturing Systems
+(f) Underground coal mining
+(g)Fire fighting operations 
+(h) Robots in space 
+(i) Security guards 
+(j) Garbage collection and waste disposal 
+operations 
+(k) Household robots 
+(l) Medical care and hospital duties etc.
+101
+
+Automation and its Types
+●Automation: Automating the tasks or processes by using robots. 
+●Fixed Automation: Automation in which sequence of processing or assembly operations are fixed 
+by the equipment configuration. 
+Features: High product rates, relatively inflexible in product design, Examples: Automobile 
+Industry 
+●Programmable Automation: Automation in which the equipment is designed to accommodate 
+various product configurations in order to change the sequence of operations or assembly 
+operations by means of control program. 
+Features : High investments, lower production rates than fixed automation, flexibility and 
+changes in products rates, suitable for batch portion, Examples: Industrial robots, NC Machine tools
+●Flexible Automation: A computer integrated manufacturing system which is an extension of 
+programmable automation is referred as flexible automation. 
+Features : High investment, Medium Production rates, Flexibility to deal with product design 
+variation, Continuous production of variable mixtures of products. Examples: Flexible 
+Manufacturing Systems (FMS)
+Automation Application Areas using Robots:
+●Invoice Processing ●Sales and Customer Service ●Data Science Field ●Compliance ●
+Marketing ●Finance ●Manufacturing ●Distribution ●IT Tasks
+102
+
+Disadvantages 
+●A Initial cost of raw 
+material is very high, 
+●Maintenance cost is 
+high, 
+●Required high skilled 
+Labor. 
+●Indirect cost for 
+research development & 
+programming increases
+Benefits of 
+Automation
+Advantages
+●High Production rates 
+●Lead time decreases 
+●Storing capacity 
+decreases 
+●Human errors are 
+eliminated. 
+●Labor cost is decreases
+Areas Difficult to Apply 
+Robotics
+●Emotional 
+Communication with 
+Customer 
+●Sales and Marketing 
+●Human Resource 
+Management 
+●Human Resource 
+Management
+103
+
+Thank You
+104
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+ha
+
+EE
+
+
+
+
+€
+
+\
+
+
+
+
+
+EE
+
+
+
+
+€
+
+\
+
+
+
+EE
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+EE
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+an t= Se
+
+\*s 3s INS (og
+aa“
+
+vg
+4
+* THE THIRD
+
+INDUSTRIAL |
+REVOLUTION
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+a
+a 7 Autonomous J at *
+al Robots Vertical System ja 0
+Co Integration
+¢
+
+Big Data 8)
+_ Industrial Internet
+and Analytics Simulation "Of Thi ngs ilo)
+
+\ What is Industry 4.0?. \ id
+
+rae Augmented
+
+Cybersecurity — : ~— Reality
+
+| = Ca = | Additive
+
+x i]
+> Manufacturing
+
+The Cloud
+
+
+
+
+
+€
+
+\
+
+
+
+
+a
+ity
+
+Monitoring ration
+
+Content Communication
+
+Platform
+
+= Identity La)
+
+Object Storage Runtime
+
+Infrastructure
+
+(
+| <a» rent
+Compute l Network
+
+Block Storage
+
+
+
+
+
+€
+
+\
+
+
+
+
+Creative Cloud”
+
+nw Microsoft Azure
+
+es KAMATERA Y cu amazon
+as webs
+
+services
+
+(5 IBMCloud Google Cloud Platform
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+v-f-9-4
+
+Material subtractive 3 object Waste
+‘Manufacturing
+
+:
+, ’ — — #
+
+Material
+
+‘aaditive
+
+a0 object
+prrehcg "i
+
+
+
+
+€
+
+\
+
+
+
+
+3D CAD FILE CAM - SLICIGN 3D Printing FINAL - PHYSICAL
+-STL file format .GCODE file format OBJECT
+
+AA aA
+
+Process of 3D
+www TheEngineeringProjects.com
+
+
+3D Slicing
+
+| 3D slicing is the process of breaking down a design into several layers,
+
+GCODE LAYERS
+
+
+
+
+€
+
+\
+
+
+
+
+SD geomenic medating
+
+3D CAD file is
+converted into S’
+or AMF format
+
+Slicing of the
+converted STL or
+AMF model
+
+
+
+
+€
+
+\
+
+
+
+Cloud
+Computing
+
+
+
+
+€
+
+\
+
+
+
+Structured Data @
+
+Can be displayed
+in rows, columns and
+relational databases
+
+Numbers, dates
+and strings
+
+Estimated 20% of
+enterprise data (Gartner)
+
+Requires less storage
+
+" OG
+
+60
+
+Easier to manage
+and protect with
+legacy solutions
+
+Unstructured Data
+
+Cannot be displayed
+in rows, columns and
+relational databases
+
+Images, audio, video,
+word processing files,
+e-mails, spreadsheets
+
+@©
+
+Estimated 80% of
+enterprise data (Gartner)
+
+80%
+
+Requires more storage
+
+More difficult to
+manage and protect
+with legacy solutions
+
+
+
+
+€
+
+\
+
+
+
+Types of Data
+
+4
+@rb, bab
+ae ae 1
+Be°e wes
+on acu
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+Semi-structured data
+
+Unstructured data
+
+Properties Structured data
+It is based on Relational Itis based on XML/RDF(Resource It is based on character
+Technology _. i
+database table Description Framework). and binary data
+Matured transaction and No transaction
+Transaction . Transaction is adapted from DBMS.
+various concurrency management and no
+management - not matured
+‘techniques concurrency
+Version Versioning over Versioning over tuples or graph is
+Versioned as a whole
+management tuples,row,tables possible
+It is more flexible than structured Itis more flexible and
+It is schema dependent and
+Flexibility data but less flexible than there is absence of
+less flexible
+unstructured data schema
+- Itis very difficult to scale DB | It’s scaling is simpler than structured .
+Scalability Itis more scalable.
+schema data
+Robustness Very robust New technology, not very spread =
+Query Structured query allow Queries over anonymous nodes are | Only textual queries are
+possible possible
+
+performance
+
+complex joining
+
+
+Banana hn
+oie i
+
+Sy DEVELOPMENT AL | sao
+=i TECHNOLOGY ABA SEARCH =-
+i= Ss! fu um HE INITIATIVE EO py eur RS a st isa as
+
+Leet) a
+eg gn 8
+
+
+
+
+€
+
+\
+
+
+
+
+BIG DATA CHARACTERISTICS
+
+Big Data is the term describing large sets of structured,
+unstructured, and semi-structured data, continuously
+generated at a high speed and in high volumes.
+
+| \
+Volume Velocity Variety Veracity
+
+Vector showing
+
+that Big Data is Measure of how
+
+Measure Speed at which
+
+describing the the data is , truthful,
+; diverse —
+
+size of generated generated and accurate, and
+
+structured and ; :
+
+data processed reliable data is
+
+unstructured
+
+altexsoft
+
+Safware rd enineeing
+
+
+
+
+€
+
+\
+
+
+
+VOLUME
+
+Huge amount of data
+
+VERACITY
+
+Inconsistencies and
+uncertainty in data
+
+VARIETY
+
+Different formats of data
+from various sources
+
+VELOCITY
+
+High speed of
+accumulation of data
+
+VALUE
+
+Extract useful data
+
+
+
+
+€
+
+\
+
+
+
+5V's
+
+OF DATA J
+_ i =
+Al _ \ eet / |
+VOLUME Ce) VALUE
+Amount of Data WV g Worth of Data
+
+€%)
+
+|
+
+VARIETY VELOCITY VERACITY
+
+Diversity of Data Speed of Accuracy of Data
+Data Generation
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+€
+
+\
+
+
+
+Applications of Big Data in Real Life
+
+Banking And
+Securities
+
+Media and { Insurance
+Entertainment
+HealthCare 6: | Transportation
+Ay
+
+Energy and Utilities Education
+
+Manufacturing
+
+
+
+
+€
+
+\
+
+
+
+
+BIG DATA ANALYTICS PROCESSES
+
+ETL/ELT data pipelines
+
+=» talend
+
+Extract, transform, load
+
+Data sources
+
+Web data
+
+Mobile app data _—7 Extract, load, transform
+
+Transactions Events data streaming
+
+data
+
+Separate files
+
+Databases
+Ete.
+
+COW oot]
+
+altexsoft
+
+Data storage and processing
+
+Chet
+
+mongoDB
+AOE CASSANDRA
+
+spank
+
+= DynamoDB
+
+Data analysis
+
+ait
+—-_
+
+Real-time analytics
+Reporting tools
+
+Business intelligence
+tools
+
+Interactive dashboards
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+al Systems (CPS)
+
+Information
+processing
+and
+communication
+components
+
+>
+ore as
+Interfaces ‘Br fey Control
+
+with humans components
+
+
+
+Smart grid cloud integration landscape
+
+Wireless smart meter
+sensors send encrypted
+data to cloud storage
+
+
+
+
+
+€
+
+\
+
+
+
+
+Various
+Embedded
+
+Processes of
+
+CPSs for
+
+
+
+
+
+€
+
+\
+
+
+
+Industrial Automation System
+
+Actuator 1
+
+Actuator 2
+
+
+
+Industrial Automation System
+
+Miergcontrolier|
+Beare!
+
+
+Industrial Automation System
+
+Control Unit
+
+
+
+
+
+€
+
+\
+
+
+
+
+oz0-Aa0zCT
+
+* Self-configure for resilience
+* Self-adjust for variation
++ Self-optimize for disturbance
+
+‘Integrated simulation and synthesis.
+‘* Remote visualization for human
+‘Collaborative diagnostics and decision making
+
+‘= Twin model for components and machines
+
+'* Time machine for variation identification and
+memory
+
+‘* Clustering for similarity in data mining
+
+‘Smart analytics for
+‘* Component machine health
+‘* Multi-dimensional data correlation
+
+‘* Degradation and performance prediction
+
+«Plug & Play
+# Tether-free communication
+* Sensor network
+
+Omacw—-AAAD
+
+5C level
+
+Smart Connection
+
+Data-to-Information
+Conversion
+
+Cybernetic
+
+Cognition
+
+Configuration
+
+Description
+
+Integration of the physical devices connected in a
+communication network.
+
+Conversion from monitored device data to information, in
+order to understand them and apply to the physical world.
+Use of information for the device virtualization. It is also
+the level responsible for the communication among assets.
+Functions of monitoring and prognostics for failure
+prediction and maintenance optimization.
+
+Transmission from the virtual to the physical world,
+making the machines self-adjusting and self-adaptive.
+
+
+
+
+€
+
+\
+
+
+
+
+AXIS 3:
+ARCHITECTURE LAYERS
+
+{ Business
+Functional
+Information
+
+——
+
+PRovy, cree
+
+
+Overview of the Architecture Layer of the RAMI 4.0.
+
+Architecture
+Layers
+
+Description
+
+Asset
+
+Integration
+
+Communication
+
+Information
+
+Functional
+
+Business
+
+Representation of physical things in the real world. These things
+can be components, hardware, documents and human workers.
+‘Transition from the physical to the virtual world. It represents
+the visible assets and their digital capacities, consequently
+providing control via computers, making it possible to generate
+events for themselves.
+
+Standardized communication from services and events or data
+to the Information Layer, and from services and control
+commands to the Integration Layer. It focuses on transmission
+mechanisms, networks discovery and the connection among
+them.
+
+Description of services and data that can be offered, used,
+generated or modified by the technical functionality of the
+asset.
+
+Description of the logical functions of an asset, such as its
+technical functionality, in the context of 14.0.
+
+Organization of the services to create business processes and
+links among different ones, supporting business models under
+legal and regulatory constraints.
+
+
+
+
+€
+
+\
+
+
+
+
+System Characteristics
+
+=z
+é
+<
+z
+=
+
+Operations
+Application
+Distributed Date Management
+
+Control
+
+
+Overview of the domains of the IRA.
+
+MIRA
+domains
+
+Description
+
+Control
+
+Operation
+
+Information
+
+Application
+
+Business
+
+Functions for industrial control systems, such as: the sensor data
+reading and writing; communication among sensors, actuators,
+controllers, gateways and other devices; abstraction of the devices
+through the representation of a virtual entity; interpretation of data
+collected by sensors and other devices; operation management of
+control systems, such as configuration and firmware/software
+updates; and the execution of control logic for the understanding of
+the states, conditions and system's behavior.
+
+Functions for prognostics, management, optimization and
+monitoring of the systems in the Control Domain, such as:
+configuring, recording and tracking assets; management commands,
+transmission; detection and prediction of problem occurrences
+through real-time monitoring of assets; predictive analysis of oT
+systems based on historical data operating and performance;
+reduction of the energy consumption for the system optimization.
+Functions for domain's data collection, and then the data
+transformation, modeling and analyzing to acquire high-level
+system-awareness. It includes a set of functions responsible for data
+collection of operation and sensor states in all domains; and a set of
+functions for data modeling and analytics.
+
+Functions capable of implementing application logic while
+performing specific business functionalities. This domain applies: a
+set of rules with specific functionalities required in considered use
+cases; and a set of functions whose application can expose their
+functionalities to other applications that consume them; or user
+interfaces for human interactions.
+
+End-to-end operation of HoT systems, integrating them with specific
+tusinase Rinctions of teadihenal or new ayetens toes.
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+a 3 TYPES OF
+rtificial Intelligence
+
+ee
+€ z=
+Artificial ‘Machine ‘Deep
+
+intelligence Learning’ Learning’
+
+Computers that Statistical Subset of
+can imitate algorithms that machine learning
+
+human intellect enable Al which follows
+and behavior implementation neural networking
+
+through data
+
+Software Training with Data 6 Optimized Solutions
+
+Cioud based Analytics IN IMIOMeLONTHINGEN) Highly Connected Services
+
+S Quick & Procised interactions
+
+Smart & Accurate ‘Robotics
+
+
+
+
+
+€
+
+\
+
+
+
+
+Structured Data © Unstructured Data
+
+Can be displayed
+in rows, columns and
+relational databases
+
+Cannot be displayed
+In rows, columns and
+relational databases
+
+i Images. audio, video,
+vanes dates & word processing files,
+=a mails, spreadsheets
+
+f
+
+©0000
+
+Estimated 80% of
+enterprise data (Gartner
+
+Estimated 20% of
+enterprise data (Gartner)
+
+t
+
+Requires less storage r= Requires more storage
+Easier to manage More difficult to
+and protect with manage and protect
+
+}gacy solutions with legacy solutions
+
+
+
+
+€
+
+\
+
+
+
+
+Collate and
+transter data
+
+‘Analytic
+tor hub o application
+loT gateway (eo, customer
+
+tionship
+
+management, ERP)
+
+Back-end
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+Service-oriented
+architecture(SOA)
+
+Internet of Services
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+What Happens in a Smart Factory?
+
+\@/ Machines talk
+toone another
+
+Machines are
+'® repaired before
+Everything + they break down
+istrackedin
+realtime
+
+Energy consumption
+is optimised
+
+Production lines can
+be altered & customised
+ina matter of seconds
+
+
+
+
+€
+
+\
+
+
+
+
+1. Connectivity, data, computational power
+Sensors
+Internet of Things
+
+3. Human-machine interaction
+Virtual and augmented reality
+Robotics and automation
+(collaborative robots, AGVs')
+RPA? chatbots
+
+Cloud technology
+Blockchain
+
+2. Analytics and intelligence
+‘Advanced analytics
+
+4. Advanced engineering
+Additive manufacturing (eg, 3D
+printing)
+
+Renewable energy
+Nanoparticles
+
+Machine learning
+Artificial intelligence
+
+
+
+
+€
+
+\
+
+
+
+
+Challenges
+
+Hare tore
+
+lace systems
+
+Diverse IT landscape 14 and mission-critical Cyber attack & Security Threat
+systems ang equipment
+that cannot be altered o
+ap
+
+With systems at aiferant
+wil become dieu
+
+production ine ora comple
+
+Lack of interoperability Overloaded IT
+correlated data fom o
+
+and prop
+
+applications, resources and
+
+Support wil overload IF
+
+Lack of visibility Change management
+
+transactional data wth ‘other change management issues
+ato gai ful vail be igh
+visibly and con
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+Decision-Making System (DMS)
+DAMcLs
+Analysis
+Modeling
+Control
+Learning
+
+State inference
+
+Human operator
+
+Decisions
+
+State influencing
+
+‘Communication
+
+
+
+
+€
+
+\
+
+
+
+
+3. Data
+conditioning,
+
+storage and
+processing
+CPS
+
+4. Data
+application
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+Driver
+app
+
+Rider
+app
+
+API Gateway
+
+Upload
+Location
+
+Plan
+Request
+
+Trip
+Request
+
+Offer, Accept,
+Assign Flow
+
+rt-demand
+
+Trip entity state
+management APIs and
+events.
+
+Update
+Supply Entity
+
+rt-supply
+Supply entity state
+management, APIs and
+
+events.
+
+Update Trip
+
+Entity
+
+Execute
+Offers
+
+Geospatial Index
+
+Fetch
+supply
+entities
+
+Matching Engine
+
+
+
+
+
+€
+
+\
+
+
+
+
+nan:
+
+Encoding
+
+100110010
+001101010
+wen
+100001111
+
+Steps 1 and2 Nucleobase code
+
+Digital files
+
+Decoding
+
+100001111
+
+N 100110010
+
+001101010
+Bm = | 110101101
+oa) Bi 101101010] Steps 20-22
+
+Nucleobase code
+
+Digital files
+
+DNA < <
+synthesis
+
+Steps 3 and 4
+
+DNA
+sequencing
+
+Step 19
+
+DNA
+
+Handling and
+storage
+
+Steps 5-9
+
+Sequencing
+preparation
+
+Steps 10-18
+
+f
+a f
+DNA with adaptors
+
+
+
+
+
+€
+
+\
+
+
+
+
+SUSTAINABILITY ASSESSMENT OF EMERGING ISSUES
+
+Technology (E21)
+1 By (E21) Al
+
+Percentage of Using new Technology
+comparing with existing one
+
+Government
+Regulation (E22)
+
+Changes in government regulation (including
+
+© economy, environment and society)
+
+Parameters
+
+Growth of
+
+Population (E23)
+
+Number of population increased per year
+
+_of Emerging |
+Issues (E2) I
+
+Crisis/ recession/
+
+Depression (E24) |
+
+Profitability=productivity X price/cost
+(opposite of crisis/recession/ depression)
+
+Consumption of
+
+~ \Natural resources |
+
+Percentage of utilization of re3sources
+
+
+SUSTAINABILITY ASSESSMENT
+
+> Sustainability/Sustainable development
+> spe, = f (E21, £22, E23, E24, E25)
+
+y om (p%821_ p¥e22 p¥e23 p¥eea Yeas
+» /sbea a (lexi 122° Tp23° Teas" leos
+> Where Ip; = Sg2i/E2i,
+> Spoi= The change towards the sustainability
+
+> Yeoi= Exponent of the change towards sustainability (S-2;) of E2i
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+‘Machine learning
+Artificial nteligence >
+
+Short Range
+"= Blustooth
+Medium Range
+
++ Wi
+
++ Zigbee
+
+Long Range
+‘= LPWAN
+
+* Sigfox
+2 NBAoT
+
++ Lora
+
+2 LoRAWaN
+
+00e
+
+
+
+
+€
+
+\
+
+
+
+
+0e80e0c000
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+Situation Evaluation and Actions Implementation
+
+\
+
+EA
+
+‘oe
+
+“eet mop infestation risk ayer
+
+
+
+
+
+€
+
+\
+
+
+
+
+Smart Soil
+Ferilization wen cases of
+Agriculture 4.0
+
+Irrigation
+
+. ali senshi .
+Smart Spraying
+
+
+
+
+€
+
+\
+
+
+
+
+
+Blockchain
+
+Fog computing Machine learning
+
+Digital
+
+° &
+Medicine)
+
+Digital Network
+
+Al Applications
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+ological and
+Pathological
+
+Wellness
+Monitoring and
+
+Personalized
+Healthcare
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+Physical Healthcare Systems.
+
+'
+Public a Hospital ot Ey Office “W Healthcare
+
+Authority 5 Logistics
+Blood ®
+Home Ee Pressure Rehab
+Rate sensor Center
+Insurance Medication
+
+Motion
+
+Sensor Industry
+
+\
+
+_————*__ Communication Networks =~
+
+<_.. WAN, PAN, BAN...
+
+< eres)
+ess. . 2 ses a
+Cyber Healthcare Systems
+Digital Human
+1 Models ig ;
+Diagnosis Prognosis
+Heart ~ »
+y 4 Rate ¢ Respiration a
+Diet Analysis Analysis Chronic
+Management a Disease
+Management
+sleep Motion a
+Analysis Analysis
+Medication % ok Mental ” Sleep
+Management _ ‘Nutrition Stress Management
+
+~y, Analysis Analysis =
+
+
+
+
+€
+
+\
+
+
+
+Health Health
+Cloud 1 Cloud 2
+
+General Hospital Specialized Hospital
+
+Health
+Insurance
+
+Health
+Research
+
+Center
+
+Government
+Health
+Agency
+
+Pharmaceutical
+Manufacture
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+Innovative
+
+Patient data
+
+i Sensors to IoP devi
+service to a analysis anes ee
+ia diseases
+
+mm \,.\
+
+=
+
+Complicated
+cases handled
+SS] Robots
+
+‘| [as] [2
+
+
+The Future Scope of Healthcare
+
+
+
+
+€
+
+\
+
+
+
+
+¢ °
+oh
+Sensor Fusion Cloud
+
+‘Computing
+Advanced
+er Algorithms
+‘Smart Sensors g§
+Al
+s Big Data
+
+Predictive
+
+Maintenance Automation
+
+
+Industry 4.0 technologies
+
+= =
+
+Front-end Technologies
+
+| Base
+| technologies
+
+
+
+
+
+€
+
+\
+
+
+
+
+LACK OF
+SECURE UPDATE LACK OF
+‘SYSTEM RESOURCES
+
+LACK OF
+PHYSICAL
+
+HARD-CODED
+
+a INTERNET OF THINGS
+SECURITY CHALLENGES
+INSECURE
+on OUTDATED
+
+COMPONENTS &
+
+INSUFFICIENT
+PRIVACY
+PROTECTION
+
+UNCLEAR
+JOB ROLES
+
+-o
+
+‘STORAGE AND
+TRANSFER
+
+FeY PRIORITISATION!
+‘OF PRODUCTIVITY
+
+
+Network Firewall
+
+Intrusion
+
+‘SD-WAN Security Prevention
+
+os A f Integrated
+jetection in lements of cl
+Networks etd
+
+Network
+Security
+
+Behavior Management
+
+Denial-of-Service Protection
+Attack against Complex
+Protection Network Threats
+
+Cloud Access Network Access
+Security Control
+
+
+
+
+€
+
+\
+
+
+
+
+Cloud Service Marketplace
+
+External
+World
+
+Enterprise Resource
+Planning
+
+Mfg. Execution
+System
+
+Process
+Control
+
+Control
+(PLC)
+
+Field
+Devices
+
+Smart Automation Devices
+
+Automation Pyramid Automation Network
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+Ss
+
+POOR DATA
+QUALITY
+
+CD
+
+ISSUESINSCALING [J
+
+WIDE TECHNOLOGIES’
+VARIETY
+
+INCORRECT (J+;
+
+HEAVY EXPENSES INTEGRATION <)
+
+BIG DATA
+CHALLENGES @
+
+DATA VERIFICATION REAL-TIME DATA
+
+&
+
+ORGANIZATIONAL
+RESISTANCE
+<2
+
+6a
+
+LACK OF EXPERTISE
+
+SECURITY AND
+PRIVACY
+
+©
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+Quality
+Control
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+Graphene
+
+/
+
+Bio-Inspire
+
+Nanotube d
+
+Quantum
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+Collaboration Policy &
+Tools Management
+
+Analytics,
+Secure Monitoring &
+Endpoints Testing
+
+Virtual
+
+Print
+Applications Management
+fon}
+Virtual [| | Security
+
+Desktops
+
+Work from Anywhere
+\ yj (WFx)
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+Personal Performance Team Performance Organizational Performance
+- Dashboards - Collaboration - Social networking
+
+- Self services - Messaging - Idea management
+
+- eLearning - Conferencing - Knowledge sharing
+
+- Book marking - Application sharing - Project portfolio mgmt.
+
+- Scanning - Project management - Decision making support
+
+- Unified messaging - Case management - Prediction markets
+
+- Offline-functionality - Communities of practice - Communities of interest
+- Personal info. mgmt. - Enterprise jams
+
+- Activity streams
+
+- Feeds & alerts
+
+
+
+
+
+€
+
+\
+
+
+
+
+¢ Aconsistent &
+flexible
+infrastructure
+
+* Enterprise
+connectivity
+
+¢ Enterprise mobility
+
+° Secure access to
+the information
+need on any device
+
+© Combine identity
+and mobile
+management
+
+¢ Multi-channel
+support
+
+Digital
+Technologies
+
+Digital
+Identity &
+Security
+
+Collaboration
+
+Information
+Access
+
+° integrate social
+collaboration
+
+* Voice, Video &
+Messaging
+
+© Leveraging analytics
+
+* Content
+management
+
+* Sync and Share
+
+
+
+
+
+€
+
+\
+
+
+
+
+The three elements of a digital twin
+
+
+
+
+
+€
+
+\
+
+
+
+
+Analytical
+Environment
+
+Mas! Mode!
+Generation Interaction
+Process Processes
+
+Connection
+Environment
+
+Virtual
+Environment
+
+Physical
+Environment
+
+‘Application
+Processes
+
+
+
+
+
+€
+
+\
+
+
+
+
+System or unit twins let you see how multiple
+systems assets work together, simulating an
+entire production line, for instance
+
+Process twins take the absolute top-level view
+of systems working together, letting you figure
+‘out how an entire factory might operate.
+
+
+COMPONENT
+
+TWIN
+
+ASSET
+TWIN
+Ex turbine, motor,
+MRI machine
+
+
+SYSTEM/UNIT
+
+TWIN
+ant, crude unit
+
+oS
+
+PROCESS
+TWIN
+
+
+
+
+
+€
+
+\
+
+
+
+
+“a
+Physical Asset Hsoy = Digital Twin
+
+Real Time
+Ax. Operational Data
+j ta
+
+Ps
+CAD Model ra Physics Based Models
++ Statistical Models
+FEA Model + Machine Learnii
+
+
+Behaviour
+cloning
+
+€
+
+Tensor?
+
+Reinforcement
+Machine
+Learning
+
+Hyper-
+parameters
+
+Ca
+
+‘unity
+
+Virtual
+Environment
+
+a)
+Curriculum é
+ctic
+Se | changes
+
+Environment | Sensor |
+
+observation Som ol Data me |
+Pics Me Physical || “taeeney
+vysic: sical { J
+Engine “QUI properties | —"g—
+} eas J [ation state }
+Reward q Actions =|
+system | 7m target | (Gripper state]
+i [Motor rotation
+
+[Trained neural | oral
+
+network
+
+|
+
+| Existing
+procedures
+
+RGB color
+recognition
+
+Microsoft Kinect v2
+Computer Vision
+| 3D Mapping
+
+
+Process Genius
+
+Utilization Rate Monitoring
+
+s — : ‘ally tail nr
+
+Mon Tae Wed Ths
+
+Process Genius
+
+Utilization Rate Monitoring
+
+s — : ‘ally tail nr
+
+Mon Tae Wed Ths
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+Digital Twin Market Share, By Industry, 2020
+Automotive & Transportation
+m Residential & Commercial
+Healthcare & Life Sciences
+‘Manufacturing
+m Energy & Power
+Agriculture
+‘™ Retail & Consumer Goods
+
+= Others
+
+Source: www.kbvresearch.com
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+[Genenc pate
+
+SOCIAL DETERMINANTS >
+
+
+
+
+
+€
+
+\
+
+
+
+
+VIRTUAL SPACE
+“Digital Twin”
+
+
+Virtual Layer
+Digital Twin
+
+Digital Layer
+‘Smart City
+
+
+
+
+
+€
+
+\
+
+
+
+
+Predictive
+Digital Twn
+
+Prescriptive
+Digital wn
+
+i
+
+‘Digital Twin Maturity Level
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+Res
+oY Oe
+° rey
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
+
+
+
+€
+
+\
+
+
+
+
