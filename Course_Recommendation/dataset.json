@@ -1,0 +1,100 @@
+{
+  "medical_jobs": [
+    {
+      "job_title": "Neurologist",
+      "desired_skills": ["Brain Disorders", "Neurological Examination", "EEG Analysis", "Patient Assessment", "Treatment Planning"]
+    },
+    {
+      "job_title": "Pediatrician",
+      "desired_skills": ["Child Healthcare", "Developmental Assessment", "Vaccination", "Growth Monitoring", "Family Counseling"]
+    },
+    {
+      "job_title": "Emergency Physician",
+      "desired_skills": ["Trauma Care", "Quick Decision Making", "Critical Care", "Resuscitation", "Triage Management"]
+    },
+    {
+      "job_title": "Cardiologist",
+      "desired_skills": ["Heart Disease Treatment", "ECG Interpretation", "Cardiac Imaging", "Risk Assessment", "Preventive Cardiology"]
+    },
+    {
+      "job_title": "Anesthesiologist",
+      "desired_skills": ["Pain Management", "Airway Management", "Patient Monitoring", "Medication Administration", "Emergency Response"]
+    },
+    {
+      "job_title": "Dermatologist",
+      "desired_skills": ["Skin Examination", "Biopsy Procedures", "Laser Therapy", "Skin Cancer Screening", "Cosmetic Procedures"]
+    },
+    {
+      "job_title": "Orthopedic Surgeon",
+      "desired_skills": ["Surgical Skills", "Fracture Care", "Joint Replacement", "Sports Medicine", "Rehabilitation Planning"]
+    },
+    {
+      "job_title": "Psychiatrist",
+      "desired_skills": ["Mental Health Assessment", "Psychotherapy", "Medication Management", "Crisis Intervention", "Behavioral Analysis"]
+    },
+    {
+      "job_title": "Radiologist",
+      "desired_skills": ["Image Interpretation", "CT Scan Analysis", "MRI Reading", "Ultrasound Skills", "Diagnostic Reporting"]
+    },
+    {
+      "job_title": "Oncologist",
+      "desired_skills": ["Cancer Treatment", "Chemotherapy Management", "Radiation Planning", "Patient Care", "Clinical Trials"]
+    },
+    {
+      "job_title": "Gastroenterologist",
+      "desired_skills": ["Endoscopy", "Digestive Disorders", "Liver Disease Management", "Nutritional Assessment", "Preventive Care"]
+    },
+    {
+      "job_title": "Family Physician",
+      "desired_skills": ["Primary Care", "Preventive Medicine", "Health Education", "Chronic Disease Management", "Family Planning"]
+    },
+    {
+      "job_title": "ENT Specialist",
+      "desired_skills": ["Ear Surgery", "Throat Examination", "Hearing Assessment", "Sinus Treatment", "Voice Disorders"]
+    },
+    {
+      "job_title": "Gynecologist",
+      "desired_skills": ["Women's Health", "Obstetric Care", "Fertility Treatment", "Surgery Skills", "Preventive Care"]
+    },
+    {
+      "job_title": "Urologist",
+      "desired_skills": ["Urinary Tract Surgery", "Prostate Care", "Kidney Stone Treatment", "Cancer Screening", "Minimally Invasive Procedures"]
+    },
+    {
+      "job_title": "Nurse Practitioner",
+      "desired_skills": ["Patient Care", "Clinical Assessment", "Treatment Planning", "Medication Management", "Documentation"]
+    },
+    {
+      "job_title": "Lab Technician",
+      "desired_skills": ["Sample Testing", "Lab Safety", "Equipment Operation", "Data Recording", "Quality Control"]
+    },
+    {
+      "job_title": "Physical Therapist",
+      "desired_skills": ["Rehabilitation", "Patient Assessment", "Exercise Planning", "Progress Monitoring", "Treatment Documentation"]
+    },
+    {
+      "job_title": "Healthcare Admin",
+      "desired_skills": ["Management", "Budgeting", "Compliance", "Staff Leadership", "Operations"]
+    },
+    {
+      "job_title": "Radiologist Tech",
+      "desired_skills": ["Imaging", "Equipment Operation", "Patient Care", "Safety Protocols", "Image Analysis"]
+    },
+    {
+      "job_title": "Pharmacist",
+      "desired_skills": ["Drug Knowledge", "Dispensing", "Patient Education", "Safety Checks", "Inventory Management"]
+    },
+    {
+      "job_title": "EMT",
+      "desired_skills": ["Emergency Care", "First Aid", "Patient Transport", "Quick Assessment", "Basic Life Support"]
+    },
+    {
+      "job_title": "Dietitian",
+      "desired_skills": ["Nutrition Planning", "Patient Education", "Diet Assessment", "Menu Planning", "Health Promotion"]
+    },
+    {
+      "job_title": "Health Info Tech",
+      "desired_skills": ["Medical Records", "Data Entry", "Coding", "Privacy Laws", "System Management"]
+    }
+  ]
+}
