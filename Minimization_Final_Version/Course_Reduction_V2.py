@@ -127,6 +127,6 @@ def process_pdf_to_summary(pdf_path: str, output_path: str):
     print(f"Summary saved to: {output_path}")
 
 if __name__ == "__main__":
-    input_pdf = "PDF for Testing/IND 4.0 PPT2024.pdf"
+    input_pdf = "Diffraction.pdf"
     output_file = "final_summary.txt"
     process_pdf_to_summary(input_pdf, output_file)

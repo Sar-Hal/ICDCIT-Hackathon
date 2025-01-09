@@ -1,32 +1,32 @@
 [
   {
     "platform": "Coursera",
-    "title": "Medical Neuroscience",
-    "skill": "nursing",
-    "url": "https://www.coursera.org/learn/medical-neuroscience"
-  },
-  {
-    "platform": "Coursera",
-    "title": "Introductory Human Physiology",
-    "skill": "nursing",
-    "url": "https://www.coursera.org/learn/physiology"
-  },
-  {
-    "platform": "Coursera",
     "title": "Medical Terminology",
-    "skill": "nursing",
+    "skill": "physician",
     "url": "https://www.coursera.org/specializations/medicalterminology"
   },
   {
     "platform": "Coursera",
+    "title": "Medical Billing and Coding Fundamentals",
+    "skill": "physician",
+    "url": "https://www.coursera.org/specializations/medical-billing-coding-fundamentals"
+  },
+  {
+    "platform": "Coursera",
+    "title": "Introduction to Medical Software",
+    "skill": "physician",
+    "url": "https://www.coursera.org/learn/introduction-to-medical-software"
+  },
+  {
+    "platform": "Coursera",
     "title": "Medical Terminology I",
-    "skill": "nursing",
+    "skill": "physician",
     "url": "https://www.coursera.org/learn/medical-terminology-1"
   },
   {
     "platform": "Coursera",
-    "title": "Vital Signs: Understanding What the Body Is Telling Us",
-    "skill": "nursing",
-    "url": "https://www.coursera.org/learn/vital-signs"
+    "title": "AI for Medical Diagnosis",
+    "skill": "physician",
+    "url": "https://www.coursera.org/learn/ai-for-medical-diagnosis"
   }
 ]
