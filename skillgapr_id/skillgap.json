@@ -1,0 +1,131 @@
+import json
+import os
+
+# Create the JSON data
+users_skills = [
+    {
+        "UserID": 1,
+        "Medical Knowledge": 7,
+        "Patient Care": 5,
+        "Clinical Skills": 3,
+        "Diagnostic Skills": 8,
+        "Communication Skills": 6,
+        "Technical Skills": 4,
+        "Critical Thinking": 7,
+        "Pharmacology": 5,
+        "Surgical Skills": 2,
+        "Health Informatics": 3
+    },
+    {
+        "UserID": 2,
+        "Medical Knowledge": 4,
+        "Patient Care": 6,
+        "Clinical Skills": 7,
+        "Diagnostic Skills": 2,
+        "Communication Skills": 5,
+        "Technical Skills": 6,
+        "Critical Thinking": 8,
+        "Pharmacology": 3,
+        "Surgical Skills": 4,
+        "Health Informatics": 5
+    },
+    {
+        "UserID": 3,
+        "Medical Knowledge": 8,
+        "Patient Care": 9,
+        "Clinical Skills": 5,
+        "Diagnostic Skills": 6,
+        "Communication Skills": 7,
+        "Technical Skills": 5,
+        "Critical Thinking": 7,
+        "Pharmacology": 4,
+        "Surgical Skills": 6,
+        "Health Informatics": 7
+    },
+    {
+        "UserID": 4,
+        "Medical Knowledge": 3,
+        "Patient Care": 2,
+        "Clinical Skills": 8,
+        "Diagnostic Skills": 7,
+        "Communication Skills": 4,
+        "Technical Skills": 5,
+        "Critical Thinking": 6,
+        "Pharmacology": 5,
+        "Surgical Skills": 7,
+        "Health Informatics": 6
+    },
+    {
+        "UserID": 5,
+        "Medical Knowledge": 6,
+        "Patient Care": 5,
+        "Clinical Skills": 4,
+        "Diagnostic Skills": 9,
+        "Communication Skills": 2,
+        "Technical Skills": 7,
+        "Critical Thinking": 8,
+        "Pharmacology": 3,
+        "Surgical Skills": 4,
+        "Health Informatics": 5
+    }
+]
+
+required_skills = [
+    {
+        "Role": "Nurse",
+        "Medical Knowledge": 6,
+        "Patient Care": 8,
+        "Clinical Skills": 7,
+        "Diagnostic Skills": 5,
+        "Communication Skills": 7,
+        "Technical Skills": 6,
+        "Critical Thinking": 6,
+        "Pharmacology": 5,
+        "Surgical Skills": 4,
+        "Health Informatics": 5
+    },
+    {
+        "Role": "Doctor",
+        "Medical Knowledge": 9,
+        "Patient Care": 7,
+        "Clinical Skills": 8,
+        "Diagnostic Skills": 9,
+        "Communication Skills": 8,
+        "Technical Skills": 7,
+        "Critical Thinking": 8,
+        "Pharmacology": 7,
+        "Surgical Skills": 6,
+        "Health Informatics": 7
+    },
+    {
+        "Role": "Technician",
+        "Medical Knowledge": 5,
+        "Patient Care": 4,
+        "Clinical Skills": 5,
+        "Diagnostic Skills": 6,
+        "Communication Skills": 6,
+        "Technical Skills": 8,
+        "Critical Thinking": 5,
+        "Pharmacology": 4,
+        "Surgical Skills": 3,
+        "Health Informatics": 8
+    }
+]
+
+# Save the JSON data to files
+def save_json_to_file(data, filename):
+    with open(filename, 'w') as file:
+        json.dump(data, file, indent=4)
+
+# Create directory to save files if it doesn't exist
+save_directory = 'healthcare_skills_data'
+if not os.path.exists(save_directory):
+    os.makedirs(save_directory)
+
+# Save the users_skills.json file
+save_json_to_file(users_skills, os.path.join(save_directory, 'users_skills.json'))
+
+# Save the required_skills.json file
+save_json_to_file(required_skills, os.path.join(save_directory, 'required_skills.json'))
+
+print(f"Files have been saved in the directory: {save_directory}")
