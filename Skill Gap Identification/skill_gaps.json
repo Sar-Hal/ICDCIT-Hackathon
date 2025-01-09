@@ -1,0 +1,54 @@
+{
+  "physician_id": "PHY001",
+  "name": "Dr. Sarah Smith",
+  "analysis_date": "2025-01-09",
+  "gaps": {
+    "clinical_procedures": [
+      {
+        "skill": "ecg_interpretation",
+        "current": 3,
+        "required": 4,
+        "gap_size": 1,
+        "priority": "medium",
+        "additional_info": {
+          "procedures_gap": 100,
+          "missing_certs": [
+            "Advanced ECG"
+          ]
+        }
+      },
+      {
+        "skill": "central_line_placement",
+        "current": 2,
+        "required": 3,
+        "gap_size": 1,
+        "priority": "medium",
+        "additional_info": {
+          "procedures_gap": 50,
+          "missing_certs": [
+            "Central Line Certification"
+          ]
+        }
+      }
+    ],
+    "patient_care": [
+      {
+        "skill": "treatment_planning",
+        "current": 3,
+        "required": 4,
+        "gap_size": 1,
+        "priority": "medium",
+        "additional_info": null
+      },
+      {
+        "skill": "documentation",
+        "current": 3,
+        "required": 4,
+        "gap_size": 1,
+        "priority": "medium",
+        "additional_info": null
+      }
+    ]
+  },
+  "recommendations": []
+}
