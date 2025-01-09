@@ -1,0 +1,44 @@
+[
+    {
+        "job_title": "Nurse Practitioner",
+        "desired_skills": ["Patient Care", "Clinical Procedures", "Diagnosis", "Treatment Planning", "Electronic Medical Records"]
+    },
+    {
+        "job_title": "Medical Laboratory Technician",
+        "desired_skills": ["Lab Testing", "Sample Collection", "Microscopy", "Data Analysis", "Safety Protocols"]
+    },
+    {
+        "job_title": "Physical Therapist",
+        "desired_skills": ["Rehabilitation Techniques", "Patient Assessment", "Exercise Therapy", "Communication", "Record Keeping"]
+    },
+    {
+        "job_title": "Healthcare Administrator",
+        "desired_skills": ["Healthcare Management", "Budgeting", "Compliance", "Team Leadership", "Data Analysis"]
+    },
+    {
+        "job_title": "Radiologic Technologist",
+        "desired_skills": ["Medical Imaging", "Radiology Equipment", "Patient Positioning", "Radiation Safety", "Image Analysis"]
+    },
+    {
+        "job_title": "Pharmacist",
+        "desired_skills": ["Pharmacology", "Medication Management", "Patient Counseling", "Prescription Analysis", "Attention to Detail"]
+    },
+    {
+        "job_title": "Occupational Therapist",
+        "desired_skills": ["Therapy Planning", "Patient Evaluation", "Assistive Technologies", "Communication", "Progress Monitoring"]
+    },
+    {
+        "job_title": "Emergency Medical Technician (EMT)",
+        "desired_skills": ["First Aid", "CPR", "Emergency Response", "Communication", "Patient Stabilization"]
+    },
+    {
+        "job_title": "Dietitian",
+        "desired_skills": ["Nutritional Assessment", "Meal Planning", "Patient Counseling", "Dietary Guidelines", "Analytical Skills"]
+    },
+    {
+        "job_title": "Health Information Technician",
+        "desired_skills": ["Medical Coding", "Data Entry", "HIPAA Compliance", "Database Management", "Attention to Detail"]
+    }
+]
+
+  
