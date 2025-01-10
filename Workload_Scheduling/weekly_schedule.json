@@ -23,37 +23,15 @@
     {
       "start_time": "4:00 PM",
       "end_time": "5:00 PM",
-      "task": "Medical Examinations"
-    }
-  ],
-  "TUESDAY": [
-    {
-      "start_time": "9:00 AM",
-      "end_time": "12:00 PM",
-      "task": "Patient Consultations"
+      "task": "Patient Admissions"
     },
     {
-      "start_time": "12:00 PM",
-      "end_time": "1:00 PM",
-      "task": "Medical Research"
-    },
-    {
-      "start_time": "1:00 PM",
-      "end_time": "2:00 PM",
-      "task": "Lunch Break"
-    },
-    {
-      "start_time": "2:00 PM",
-      "end_time": "4:00 PM",
-      "task": "Health Screenings"
-    },
-    {
-      "start_time": "4:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
       "task": "Follow-up Calls"
     }
   ],
-  "WEDNESDAY": [
+  "TUESDAY": [
     {
       "start_time": "9:00 AM",
       "end_time": "12:00 PM",
@@ -62,7 +40,7 @@
     {
       "start_time": "12:00 PM",
       "end_time": "1:00 PM",
-      "task": "Discharge Planning"
+      "task": "Medical Examinations"
     },
     {
       "start_time": "1:00 PM",
@@ -72,24 +50,61 @@
     {
       "start_time": "2:00 PM",
       "end_time": "4:00 PM",
-      "task": "Training Sessions"
+      "task": "Emergency Care"
     },
     {
       "start_time": "4:00 PM",
       "end_time": "5:00 PM",
-      "task": "Telemedicine Appointments"
+      "task": "Health Screenings"
+    },
+    {
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "task": "Discharge Planning"
+    }
+  ],
+  "WEDNESDAY": [
+    {
+      "start_time": "9:00 AM",
+      "end_time": "12:00 PM",
+      "task": "Patient Consultations"
+    },
+    {
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "task": "Medical Research"
+    },
+    {
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "task": "Lunch Break"
+    },
+    {
+      "start_time": "2:00 PM",
+      "end_time": "4:00 PM",
+      "task": "Medical Examinations"
+    },
+    {
+      "start_time": "4:00 PM",
+      "end_time": "5:00 PM",
+      "task": "Staff Meetings"
+    },
+    {
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "task": "Training Sessions"
     }
   ],
   "THURSDAY": [
     {
       "start_time": "9:00 AM",
       "end_time": "12:00 PM",
-      "task": "Emergency Care"
+      "task": "Surgeries"
     },
     {
       "start_time": "12:00 PM",
       "end_time": "1:00 PM",
-      "task": "Patient Admissions"
+      "task": "Patient Consultations"
     },
     {
       "start_time": "1:00 PM",
@@ -99,19 +114,24 @@
     {
       "start_time": "2:00 PM",
       "end_time": "4:00 PM",
-      "task": "Medical Research"
+      "task": "Emergency Care"
     },
     {
       "start_time": "4:00 PM",
       "end_time": "5:00 PM",
-      "task": "Staff Meetings"
+      "task": "Telemedicine Appointments"
+    },
+    {
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "task": "Patient Education"
     }
   ],
   "FRIDAY": [
     {
       "start_time": "9:00 AM",
       "end_time": "12:00 PM",
-      "task": "Patient Consultations"
+      "task": "Medical Examinations"
     },
     {
       "start_time": "12:00 PM",
@@ -131,19 +151,24 @@
     {
       "start_time": "4:00 PM",
       "end_time": "5:00 PM",
-      "task": "Patient Education"
+      "task": "Discharge Planning"
+    },
+    {
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "task": "Follow-up Calls"
     }
   ],
   "SATURDAY": [
     {
       "start_time": "9:00 AM",
       "end_time": "12:00 PM",
-      "task": "Surgeries"
+      "task": "Patient Consultations"
     },
     {
       "start_time": "12:00 PM",
       "end_time": "1:00 PM",
-      "task": "Medical Examinations"
+      "task": "Prescription Reviews"
     },
     {
       "start_time": "1:00 PM",
@@ -153,24 +178,29 @@
     {
       "start_time": "2:00 PM",
       "end_time": "4:00 PM",
-      "task": "Emergency Care"
+      "task": "Medical Research"
     },
     {
       "start_time": "4:00 PM",
       "end_time": "5:00 PM",
-      "task": "Prescription Reviews"
+      "task": "Training Sessions"
+    },
+    {
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "task": "Staff Meetings"
     }
   ],
   "SUNDAY": [
     {
       "start_time": "9:00 AM",
       "end_time": "12:00 PM",
-      "task": "Medical Research"
+      "task": "Emergency Care"
     },
     {
       "start_time": "12:00 PM",
       "end_time": "1:00 PM",
-      "task": "Telemedicine Appointments"
+      "task": "Patient Admissions"
     },
     {
       "start_time": "1:00 PM",
@@ -180,12 +210,17 @@
     {
       "start_time": "2:00 PM",
       "end_time": "4:00 PM",
-      "task": "Patient Consultations"
+      "task": "Surgeries"
     },
     {
       "start_time": "4:00 PM",
       "end_time": "5:00 PM",
-      "task": "Follow-up Calls"
+      "task": "Telemedicine Appointments"
+    },
+    {
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "task": "Patient Education"
     }
   ]
 }

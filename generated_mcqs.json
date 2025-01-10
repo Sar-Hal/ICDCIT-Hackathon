@@ -1,29 +1,29 @@
 [
   {
     "category": "Cardiology",
-    "question_text": "What is the primary focus of the course described in the given course description in the field of Cardiology?",
+    "question_text": "What is the primary focus of the course described, in the context of the field of Cardiology?",
     "options": {
-      "A": "Diagnosis and treatment of heart diseases",
-      "B": "Understanding of cardiovascular anatomy",
-      "C": "Fundamentals of healthcare systems and management",
-      "D": "Advanced cardiac surgical procedures"
+      "A": "Clinical procedures and patient care",
+      "B": "Healthcare systems and management",
+      "C": "Cardiovascular disease research and development",
+      "D": "Medical technology and innovation"
     },
-    "correct_answer": "C"
+    "correct_answer": "B"
   },
   {
     "category": "Physician",
-    "question_text": "What is the primary goal of mastering essential clinical skills for a physician?",
+    "question_text": "What is the primary goal of mastering essential clinical skills in the field of physician practice?",
     "options": {
-      "A": "To enhance medical research",
-      "B": "To improve hospital management",
-      "C": "To provide effective patient care",
-      "D": "To advance medical technology"
+      "A": "To enhance medical research and development",
+      "B": "To improve hospital administrative tasks",
+      "C": "To provide effective patient care and treatment",
+      "D": "To advance medical technology and equipment"
     },
     "correct_answer": "C"
   },
   {
     "category": "Dietician",
-    "question_text": "What is the primary goal of a dietician when creating a personalized diet plan for a client?",
+    "question_text": "What is the primary goal of a dietitian when creating a personalized diet plan for a client?",
     "options": {
       "A": "To restrict calorie intake as much as possible",
       "B": "To promote healthy eating habits and meet nutritional needs",
@@ -33,46 +33,57 @@
     "correct_answer": "B"
   },
   {
-    "category": "Health IT",
-    "question_text": "What is the primary focus of the field of Health IT in transforming healthcare delivery?",
+    "category": "Public Health",
+    "question_text": "What is the primary goal of global health initiatives in addressing health challenges worldwide?",
     "options": {
-      "A": "Developing new medical devices",
-      "B": "Improving patient care through technology integration",
-      "C": "Enhancing hospital administrative tasks",
-      "D": "Reducing healthcare costs only"
+      "A": "To reduce economic inequalities between countries",
+      "B": "To improve access to healthcare services and reduce health disparities",
+      "C": "To increase the use of technology in healthcare systems",
+      "D": "To promote tourism in developing countries"
     },
     "correct_answer": "B"
   },
   {
-    "category": "Psychology",
-    "question_text": "What is a primary goal of exploring mental health concepts in the field of Psychology?",
+    "category": "Health IT",
+    "question_text": "What is the primary focus of the Health IT course?",
     "options": {
-      "A": "To diagnose and treat physical illnesses",
-      "B": "To understand and promote strategies for emotional well-being",
-      "C": "To develop skills for financial management",
-      "D": "To learn about historical events"
+      "A": "Medical research and development",
+      "B": "Healthcare policy and management",
+      "C": "Transforming healthcare delivery through technology",
+      "D": "Patient care and nursing practices"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "Psychology",
+    "question_text": "What is the primary goal of exploring mental health concepts in the field of Psychology?",
+    "options": {
+      "A": "To diagnose and treat mental illnesses",
+      "B": "To understand and promote overall well-being",
+      "C": "To develop pharmaceutical treatments for mental health",
+      "D": "To conduct research on mental health statistics"
     },
     "correct_answer": "B"
   },
   {
     "category": "Pharmacy",
-    "question_text": "What is the primary goal of the pharmaceutical product development process in the field of pharmacy?",
+    "question_text": "What is the primary goal of the pre-formulation stage in the development of a pharmaceutical product?",
     "options": {
-      "A": "To design and manufacture pharmaceutical packaging",
-      "B": "To develop and test new pharmaceutical products for safety and efficacy",
-      "C": "To market and distribute existing pharmaceutical products",
-      "D": "To research and analyze the chemical properties of pharmaceutical ingredients"
+      "A": "To design the packaging of the final product",
+      "B": "To determine the stability and compatibility of the active ingredient with excipients",
+      "C": "To conduct clinical trials in human subjects",
+      "D": "To market and distribute the product to pharmacies"
     },
     "correct_answer": "B"
   },
   {
     "category": "Physical Therapy",
-    "question_text": "What is the primary goal of using exercise in physical therapy rehabilitation?",
+    "question_text": "What is the primary role of exercise in the context of physical therapy rehabilitation?",
     "options": {
       "A": "To solely increase muscle strength",
-      "B": "To enhance overall cardiovascular health",
-      "C": "To support the recovery process and improve functional abilities",
-      "D": "To reduce flexibility and range of motion"
+      "B": "To only enhance cardiovascular endurance",
+      "C": "To support the recovery process and improve overall function",
+      "D": "To replace manual therapy techniques entirely"
     },
     "correct_answer": "C"
   },
@@ -80,22 +91,22 @@
     "category": "Healthcare Management",
     "question_text": "What is the primary goal of developing leadership skills in healthcare management?",
     "options": {
-      "A": "To improve patient satisfaction ratings",
-      "B": "To increase hospital revenue and profitability",
-      "C": "To enhance teamwork and collaboration among healthcare professionals",
-      "D": "To reduce medical malpractice claims"
+      "A": "To improve patient care outcomes",
+      "B": "To increase hospital revenue",
+      "C": "To manage healthcare teams effectively",
+      "D": "To reduce medical errors only"
     },
     "correct_answer": "C"
   },
   {
     "category": "Epidemiology",
-    "question_text": "What is the primary goal of epidemiology in the context of public health?",
+    "question_text": "What is the primary focus of the field of Epidemiology?",
     "options": {
-      "A": "To diagnose and treat individual patients",
-      "B": "To investigate and manage health issues in populations",
-      "C": "To develop new medical technologies and equipment",
-      "D": "To conduct basic scientific research in a laboratory setting"
+      "A": "Investigating individual patient cases",
+      "B": "Managing healthcare systems and policies",
+      "C": "Investigating and managing health issues in populations",
+      "D": "Developing new medical treatments and technologies"
     },
-    "correct_answer": "B"
+    "correct_answer": "C"
   }
 ]

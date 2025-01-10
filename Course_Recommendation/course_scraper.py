@@ -111,7 +111,7 @@ def main():
     scraper = CourseScraper()
     try:
         courses = scraper.search_courses(skills)
-        scraper.save_results(courses, "medical_courses.json")
+        scraper.save_results(courses, "Course_Recommendation\medical_courses_v2.json")
         print(f"Found {len(courses)} courses. Results saved to medical_courses.json")
     finally:
         scraper.close()
