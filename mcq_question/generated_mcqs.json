@@ -1,0 +1,55 @@
+{
+  "category": "gyanaceologist",
+  "questions": [
+    {
+      "question": "What is a primary focus of gyanaceologist?",
+      "options": [
+        "Patient care and assessment",
+        "Clinical procedures",
+        "Medical documentation",
+        "Healthcare technology"
+      ],
+      "correct_answer": "Patient care and assessment"
+    },
+    {
+      "question": "Which skill is most essential for gyanaceologist professionals?",
+      "options": [
+        "Time management",
+        "Technical expertise",
+        "Communication",
+        "Critical thinking"
+      ],
+      "correct_answer": "Critical thinking"
+    },
+    {
+      "question": "What is a key responsibility in gyanaceologist?",
+      "options": [
+        "Administrative tasks",
+        "Equipment maintenance",
+        "Patient monitoring",
+        "Research activities"
+      ],
+      "correct_answer": "Patient monitoring"
+    },
+    {
+      "question": "Which quality is most important for gyanaceologist practitioners?",
+      "options": [
+        "Attention to detail",
+        "Marketing ability",
+        "Computer skills",
+        "Physical strength"
+      ],
+      "correct_answer": "Attention to detail"
+    },
+    {
+      "question": "What best describes the role of gyanaceologist in healthcare?",
+      "options": [
+        "Direct patient care",
+        "Facility management",
+        "Equipment sales",
+        "Data analysis"
+      ],
+      "correct_answer": "Direct patient care"
+    }
+  ]
+}
