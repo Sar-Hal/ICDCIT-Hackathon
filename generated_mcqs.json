@@ -1,26 +1,101 @@
 [
   {
+    "category": "Cardiology",
+    "question_text": "What is the primary focus of the course described in the given course description in the field of Cardiology?",
+    "options": {
+      "A": "Diagnosis and treatment of heart diseases",
+      "B": "Understanding of cardiovascular anatomy",
+      "C": "Fundamentals of healthcare systems and management",
+      "D": "Advanced cardiac surgical procedures"
+    },
+    "correct_answer": "C"
+  },
+  {
     "category": "Physician",
-    "question": "What is the primary goal of mastering essential clinical skills in patient care?\nA) Improved diagnosis\nB) Effective patient care\nC) Reduced costs\nD) Increased research\n\nCorrect answer: B) Effective patient care"
+    "question_text": "What is the primary goal of mastering essential clinical skills for a physician?",
+    "options": {
+      "A": "To enhance medical research",
+      "B": "To improve hospital management",
+      "C": "To provide effective patient care",
+      "D": "To advance medical technology"
+    },
+    "correct_answer": "C"
   },
   {
     "category": "Dietician",
-    "question": "What is the primary goal of a dietician when creating a personalized diet plan?\nA) To restrict calorie intake\nB) To promote overall health and well-being\nC) To increase muscle mass\nD) To reduce food costs\n\nCorrect answer: B) To promote overall health and well-being"
+    "question_text": "What is the primary goal of a dietician when creating a personalized diet plan for a client?",
+    "options": {
+      "A": "To restrict calorie intake as much as possible",
+      "B": "To promote healthy eating habits and meet nutritional needs",
+      "C": "To focus solely on weight loss rather than overall health",
+      "D": "To recommend supplements instead of whole foods"
+    },
+    "correct_answer": "B"
   },
   {
     "category": "Health IT",
-    "question": "What is the primary goal of Health IT in transforming healthcare delivery?\nA) Reduce healthcare costs\nB) Improve patient outcomes\nC) Enhance medical research\nD) Increase administrative tasks\n\nCorrect answer: B) Improve patient outcomes"
+    "question_text": "What is the primary focus of the field of Health IT in transforming healthcare delivery?",
+    "options": {
+      "A": "Developing new medical devices",
+      "B": "Improving patient care through technology integration",
+      "C": "Enhancing hospital administrative tasks",
+      "D": "Reducing healthcare costs only"
+    },
+    "correct_answer": "B"
   },
   {
     "category": "Psychology",
-    "question": "What is the primary goal of exploring mental health concepts in the field of Psychology?\nA) To diagnose mental disorders\nB) To develop strategies for well-being\nC) To understand neurology\nD) To study social behaviors\n\nCorrect answer: B) To develop strategies for well-being"
+    "question_text": "What is a primary goal of exploring mental health concepts in the field of Psychology?",
+    "options": {
+      "A": "To diagnose and treat physical illnesses",
+      "B": "To understand and promote strategies for emotional well-being",
+      "C": "To develop skills for financial management",
+      "D": "To learn about historical events"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "category": "Pharmacy",
+    "question_text": "What is the primary goal of the pharmaceutical product development process in the field of pharmacy?",
+    "options": {
+      "A": "To design and manufacture pharmaceutical packaging",
+      "B": "To develop and test new pharmaceutical products for safety and efficacy",
+      "C": "To market and distribute existing pharmaceutical products",
+      "D": "To research and analyze the chemical properties of pharmaceutical ingredients"
+    },
+    "correct_answer": "B"
   },
   {
     "category": "Physical Therapy",
-    "question": "What is the primary goal of using exercise in physical therapy rehabilitation?\nA) To increase muscle mass\nB) To enhance athletic performance\nC) To improve functional ability\nD) To reduce body fat\n\nCorrect answer: C) To improve functional ability"
+    "question_text": "What is the primary goal of using exercise in physical therapy rehabilitation?",
+    "options": {
+      "A": "To solely increase muscle strength",
+      "B": "To enhance overall cardiovascular health",
+      "C": "To support the recovery process and improve functional abilities",
+      "D": "To reduce flexibility and range of motion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "category": "Healthcare Management",
+    "question_text": "What is the primary goal of developing leadership skills in healthcare management?",
+    "options": {
+      "A": "To improve patient satisfaction ratings",
+      "B": "To increase hospital revenue and profitability",
+      "C": "To enhance teamwork and collaboration among healthcare professionals",
+      "D": "To reduce medical malpractice claims"
+    },
+    "correct_answer": "C"
   },
   {
     "category": "Epidemiology",
-    "question": "What is the primary goal of epidemiology in investigating health issues in populations?\nA) To develop new medical treatments\nB) To identify risk factors and causes of disease\nC) To manage individual patient care\nD) To market healthcare products\n\nCorrect answer: B) To identify risk factors and causes of disease"
+    "question_text": "What is the primary goal of epidemiology in the context of public health?",
+    "options": {
+      "A": "To diagnose and treat individual patients",
+      "B": "To investigate and manage health issues in populations",
+      "C": "To develop new medical technologies and equipment",
+      "D": "To conduct basic scientific research in a laboratory setting"
+    },
+    "correct_answer": "B"
   }
 ]
