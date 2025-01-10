@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Physician",
+    "question": "What is the primary goal of mastering essential clinical skills in patient care?\nA) Improved diagnosis\nB) Effective patient care\nC) Reduced costs\nD) Increased research\n\nCorrect answer: B) Effective patient care"
+  },
+  {
+    "category": "Dietician",
+    "question": "What is the primary goal of a dietician when creating a personalized diet plan?\nA) To restrict calorie intake\nB) To promote overall health and well-being\nC) To increase muscle mass\nD) To reduce food costs\n\nCorrect answer: B) To promote overall health and well-being"
+  },
+  {
+    "category": "Health IT",
+    "question": "What is the primary goal of Health IT in transforming healthcare delivery?\nA) Reduce healthcare costs\nB) Improve patient outcomes\nC) Enhance medical research\nD) Increase administrative tasks\n\nCorrect answer: B) Improve patient outcomes"
+  },
+  {
+    "category": "Psychology",
+    "question": "What is the primary goal of exploring mental health concepts in the field of Psychology?\nA) To diagnose mental disorders\nB) To develop strategies for well-being\nC) To understand neurology\nD) To study social behaviors\n\nCorrect answer: B) To develop strategies for well-being"
+  },
+  {
+    "category": "Physical Therapy",
+    "question": "What is the primary goal of using exercise in physical therapy rehabilitation?\nA) To increase muscle mass\nB) To enhance athletic performance\nC) To improve functional ability\nD) To reduce body fat\n\nCorrect answer: C) To improve functional ability"
+  },
+  {
+    "category": "Epidemiology",
+    "question": "What is the primary goal of epidemiology in investigating health issues in populations?\nA) To develop new medical treatments\nB) To identify risk factors and causes of disease\nC) To manage individual patient care\nD) To market healthcare products\n\nCorrect answer: B) To identify risk factors and causes of disease"
+  }
+]
