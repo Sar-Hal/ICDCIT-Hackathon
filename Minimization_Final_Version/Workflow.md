@@ -1,5 +1,6 @@
 # PDF Processing Workflow
 
+```mermaid
 graph LR
     A[Input PDF] --> B[Extract PDF Content]
     B --> C[Clean Text]
