@@ -1,7 +1,7 @@
 # PDF Processing Workflow
 
 ```mermaid
-graph LR
+graph TD
     A[Input PDF] --> B[Extract PDF Content]
     B --> C[Clean Text]
     C --> D[Split into Chunks]
