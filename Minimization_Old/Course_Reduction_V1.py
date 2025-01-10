@@ -110,6 +110,6 @@ def process_pdf_to_summary(pdf_path, output_path):
     print(f"\nSummary saved to: {output_path}")
 
 if __name__ == "__main__":
-    input_pdf = "PDF for Testing\IND 4.0 PPT2024.pdf"
+    input_pdf = "Minimization_Final_Version\BIOSENSOR.pdf"
     output_file = "final_summary.txt"
     process_pdf_to_summary(input_pdf, output_file)
